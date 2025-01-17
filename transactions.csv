@@ -125,3 +125,5 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-17 08:23:00,Tether,700,USDT,Sberbank,72708.65,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-17 08:37:00,Sberbank,500000,RUB,Tether,4755.1705,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-17 08:25:00,Bitcoin,0.01,BTC,Visa-Master,1004.2168,USD,https://bobr.exchange/,0,trc erc bep
+2025-01-17 09:38:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,380.5519,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-17 09:20:00,Sberbank,70000,RUB,Tether,664.4821,USDT,https://finex24.io,10943,trc,erc,bep
