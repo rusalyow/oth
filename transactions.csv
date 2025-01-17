@@ -1505,3 +1505,14 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-17 19:20:16.919603,Dogecoin(DOGE),1300,DOGE,Желтыйбанк(RUB),54450,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-17 22:11:00,USDT TRC20,0,?,ЮMoney,14876,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-17 22:11:00,USDCoin (ERC20),0,?,Т-Банк (Тинькофф),99297,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-17 16:28:00,Bitcoin,0.007,BTC,Sberbank,75382.1601,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-17 21:59:00,free-png.ru-126,5500,RUB,solana-sol-logo,0.21898335,SOL,https://cripthub.ru/,1789,trc erc bep
+2025-01-17 19:30:13.289223,Tether(USDT)TON,80,USDT,Желтыйбанк(RUB),8110,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-17 19:30:13.293990,Tether(USDT)TRC20,800,USDT,Желтыйбанк(RUB),81220,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-17 19:30:13.298620,Tether(USDT)TRC20,300,USDT,Желтыйбанк(RUB),30450,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-17 19:30:13.303281,Красныйбанк(RUB),5000,RUB,Ethereum(ETH)BEP20,0.013,ETH,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-17 22:24:00,USDT TRC20,0,?,СБП,14777,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-17 22:23:00,USDT BEP20,0,?,USDT TRC20,994,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-17 19:59:00,Dogecoin,956,DOGE,89be191b4152ac284879e19a53c55e44,40448.36,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-17 21:01:00,Bitcoin,0.004229,BTC,Tinkoff,44949.48,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-17 20:47:00,Tether,610,USDT,Sberbank,61927.2,RUB,https://niceobmen.com,10334,trc erc bep
