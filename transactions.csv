@@ -1861,3 +1861,16 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-18 06:30:00,USDCoin (BEP20),0,?,Сбербанк,15120,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-18 06:33:00,Альфа-банк,0,?,Solana,0.189856,SOL,https://avanchange.com/,1808,trc erc bep ton
 2025-01-18 06:29:00,Tether,3500,USDT,Monero,15.83946924,XMR,https://bobr.exchange/,0,trc erc bep
+2025-01-18 06:48:00,Visa-Master-Mir,1000,RUB,20799102-logo-moneygo1,905.45,RUB,https://barry24.com,11204,trc erc bep
+2025-01-18 06:41:00,Visa-Master-Mir,1000,RUB,20799102-logo-moneygo1,905.45,RUB,https://barry24.com,11204,trc erc bep
+2025-01-18 06:13:00,Sberbank,100000,RUB,freedom-finance-01,493690,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-18 06:17:00,Tinkoff,32000,RUB,Bitcoin,0.00277475,BTC,https://buhtaobmena.me,11221,trc bep
+2025-01-18 03:50:20.517898,Tether(USDT)TRC20,890,USDT,Зеленыйбанк(RUB),90520,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:50:20.524291,Tether(USDT)TRC20,78.63,USDT,Желтыйбанк(RUB),8000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:50:20.532408,Cosmos(ATOM),7.6,ATOM,Желтыйбанк(RUB),5160,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:50:20.544732,Tether(USDT)TRC20,344.45,USDT,Желтыйбанк(RUB),35000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:50:20.560314,Красныйбанк(RUB),5000,RUB,USDCoin(USDC)SOL,45.76,USDC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 06:44:00,Т-Банк (Тинькофф),0,?,Solana,0.188231,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 06:45:00,USDT TRC20,0,?,Сбербанк,15118,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 06:41:00,USDT ERC20,0,?,Т-Банк (Тинькофф),11087,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 06:37:00,USDT TRC20,0,?,Monero,104,XMR,https://avanchange.com/,1808,trc erc bep ton
