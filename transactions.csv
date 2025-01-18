@@ -1799,3 +1799,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-18 02:50:17.204212,Tether(USDT)BEP20,201,USDT,Желтыйбанк(RUB),20480,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-18 05:44:00,Сбербанк,0,?,TRON,183,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-01-18 05:36:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000564,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 04:35:00,Tether,880,USDT,Sberbank,89433.52,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-18 04:29:00,Tether,737,USDT,Sberbank,75045.025,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-18 04:24:00,Tether,701,USDT,photo-2024-12-15-15-18-16,71336.1434,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-18 05:17:00,Tether,499.95,USDT,829646962,49730,RUB,https://btchange.ru,11173,trc erc
+2025-01-18 05:29:00,Bitcoin,0.0058,BTC,Alfabank,60305.0987723,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-18 05:28:00,1mir,7000,RUB,ton-symbol,11.15525888,TON,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 03:00:21.175312,Tether(USDT)TRC20,6475.04,USDT,Зеленыйбанк(RUB),660000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.181049,BTC,0.006,BTC,Банковскаякарта(RUB),65000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.186743,BTC,0.007,BTC,Зеленыйбанк(RUB),73540,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.192531,Ripple(XRP),20,XRP,Желтыйбанк(RUB),6350,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.198168,Tether(USDT)BEP20,500,USDT,Зеленыйбанк(RUB),50960,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.203734,Tether(USDT)BEP20,49.06,USDT,Желтыйбанк(RUB),5000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.209292,Tether(USDT)TRC20,250,USDT,Желтыйбанк(RUB),25480,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:00:21.214914,Tether(USDT)BEP20,220.76,USDT,Желтыйбанк(RUB),22500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 05:48:00,Альфа-банк,0,?,Bitcoin,0.001493,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 05:55:00,USDT BEP20,0,?,VISA/MasterCard,9951,RUB,https://avanchange.com/,1808,trc erc bep ton
