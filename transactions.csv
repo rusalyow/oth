@@ -1604,3 +1604,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-18 00:17:00,Bitcoin,0.0019,BTC,20-SBP,19704.5706521,RUB,https://buhtaobmena.me,11221,trc bep
 2025-01-17 22:11:15.499871,Tether(USDT)TRC20,201,USDT,Желтыйбанк(RUB),20400,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-17 22:11:15.505478,Tether(USDT)ERC20,1000,USDT,Зеленыйбанк(RUB),101220,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 00:55:00,Bitcoin,0.0044,BTC,06-MTS-Bank,46035.4360215,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-18 00:47:00,pngegg-2,10500,RUB,bitcoin-btc-logo,0.00088465,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 00:50:00,pngegg-2,8400,RUB,bitcoin-btc-logo,0.00068657,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 00:27:00,1mir,6000,RUB,bitcoin-btc-logo,0.00049192,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 00:23:00,pngegg-2,5300,RUB,monero-xmr-logo,0.19770536,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-17 22:20:16.620252,Tether(USDT)BEP20,49.25,USDT,Желтыйбанк(RUB),5000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-17 22:20:16.625626,Tether(USDT)TRC20,510,USDT,Зеленыйбанк(RUB),51770,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 01:10:00,Альфа-банк,0,?,Bitcoin,0.001547,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 01:16:00,USDT TRC20,0,?,СБП,49490,RUB,https://avanchange.com/,1808,trc erc bep ton
