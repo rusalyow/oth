@@ -3538,3 +3538,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-18 23:14:00,Сбербанк,0,?,TRON,368,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-01-18 20:06:00,Tether,700,USDT,photo-2024-12-15-15-18-16,72729.02,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-18 23:06:00,photo-2024-12-15-15-18-16,98776,RUB,Bitcoin,0.008947,BTC,https://nadex.io/,19731,trc erc bep
+2025-01-18 18:55:00,Bitcoin,0.007,BTC,photo-2024-12-15-15-18-16,73977.1319,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-18 19:50:00,Tether,800,USDT,photo-2024-12-15-15-18-16,81616.56,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-18 23:05:00,photo-2024-12-15-15-18-16,450000,RUB,Ether,1.290889,ETH,https://finex24.io,10943,trc,erc,bep
+2025-01-18 23:23:00,TRON,0,?,Т-Банк (Тинькофф),24118,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 23:20:00,Bitcoin,0,?,Альфа-банк,10418,RUB,https://avanchange.com/,1808,trc erc bep ton
