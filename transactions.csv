@@ -1676,3 +1676,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-18 00:30:16.519928,Tether(USDT)TRC20,740,USDT,Желтыйбанк(RUB),75150,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-18 00:30:16.525056,Dogecoin(DOGE),158,DOGE,Желтыйбанк(RUB),6760,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-18 00:30:16.530224,Tether(USDT)TRC20,291.41,USDT,Желтыйбанк(RUB),29600,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 00:40:22.954415,BTC,0.008,BTC,Желтыйбанк(RUB),83340,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 00:40:22.959729,Tether(USDT)TRC20,55,USDT,Желтыйбанк(RUB),5580,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 00:40:22.965217,Tether(USDT)TRC20,315,USDT,Желтыйбанк(RUB),31990,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 00:40:22.970560,Tether(USDT)TRC20,101,USDT,Желтыйбанк(RUB),10250,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:38:00,Monero,0,?,Сбербанк,543330,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 03:29:00,USDT TRC20,0,?,ЮMoney,35138,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 03:29:00,Monero,0,?,ЮMoney,11907,RUB,https://avanchange.com/,1808,trc erc bep ton
