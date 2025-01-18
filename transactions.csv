@@ -1688,3 +1688,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-11 05:03:00,Cash-RUB,3500000,RUB,usdttrc20,33156.4987,USD,https://keine-exchange.com,997,trc erc bep
 2025-01-18 00:50:17.961883,Tether(USDT)ERC20,849.27,USDT,СБП(RUB),86000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-18 00:50:17.967121,Dogecoin(DOGE),1150,DOGE,СБП(RUB),47900,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:51:00,Alfabank,1000,RUB,20799102-logo-moneygo1,905.45,RUB,https://barry24.com,11204,trc erc bep
+2025-01-11 06:01:00,tether,10110.11011,USD,Cash-USD,10030.2402,USD,https://keine-exchange.com,997,trc erc bep
+2025-01-18 03:34:00,pngegg,14700,RUB,bitcoin-btc-logo,0.00126013,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 03:30:00,free-png.ru-126,6000,RUB,bitcoin-btc-logo,0.00049903,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 03:14:00,png-transparent-raiffeisenbank-raiffeisen-zentralbank-raiffeisen-bankengruppe-raiffeisen-bank-international-bank-angle-text-rectangle,6600,RUB,bitcoin-btc-logo,0.00054077,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-18 01:00:18.388816,Tether(USDT)TRC20,143,USDT,Желтыйбанк(RUB),14540,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 01:00:18.397710,BTC,0.002,BTC,Желтыйбанк(RUB),20040,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 01:00:18.403841,Dogecoin(DOGE),229.6,DOGE,Желтыйбанк(RUB),9500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 01:00:18.409978,Tether(USDT)TRC20,409,USDT,Желтыйбанк(RUB),41540,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-18 03:58:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.00065,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 03:52:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.001086,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-18 03:56:00,Litecoin,0,?,Т-Банк (Тинькофф),27800,RUB,https://avanchange.com/,1808,trc erc bep ton
