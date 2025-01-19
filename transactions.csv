@@ -5251,3 +5251,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-19 19:05:00,USDT TRC20,0,?,TRON,367,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-01-19 18:57:00,USDT TRC20,0,?,VISA/MasterCard,21064,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-19 18:48:00,Bitcoin,0.01997602,BTC,Monero,9.88938341,XMR,https://bobr.exchange/,0,trc erc bep
+2025-01-19 18:46:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,929.3706,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-19 17:39:00,Tether,765,USDT,photo-2024-12-15-15-18-16,79917.561,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-19 18:51:00,Raiffaisen,50000,RUB,Tether,458.7623,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-19 18:56:00,Tinkoff,59389.1942578,RUB,31-Solana,2.00668297,SOL,https://buhtaobmena.me,11221,trc bep
+2025-01-19 17:55:00,Tinkoff,60000,RUB,Kaspi-bank,297504,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-19 16:20:16.470311,BTC,0.005,BTC,Желтыйбанк(RUB),59180,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 16:20:16.486233,Tether(USDT)SOL,1000,USDT,Зеленыйбанк(RUB),103240,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 16:20:16.501800,Желтыйбанк(RUB),50000,RUB,Tether(USDT)TRC20,463.09,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 16:20:16.517565,Зеленыйбанк(RUB),498000,RUB,Tether(USDT)TRC20,4614.49,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 19:16:00,USDT TRC20,0,?,Т-Банк (Тинькофф),66518,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 19:12:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000574,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 19:10:00,USDT TRC20,0,?,Сбербанк,27631,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 19:10:00,USDT BEP20,0,?,Т-Банк (Тинькофф),10234,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 19:12:00,USDCoin (BEP20),0,?,Альфа-банк,25592,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 16:57:00,Tether,6000,USDT,Visa-Master,2388176.4,AMD,https://bobr.exchange/,0,trc erc bep
