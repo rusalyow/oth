@@ -3633,3 +3633,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-19 03:25:00,Visa-Master-Mir,1130,RUB,20799102-logo-moneygo1,1023.16,RUB,https://barry24.com,11204,trc erc bep
 2025-01-19 00:30:16.624256,Toncoin(TON),57.9,TON,Solana(SOL),1.204,SOL,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-19 03:23:00,USDCoin (BEP20),0,?,Т-Банк (Тинькофф),15000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 03:18:00,Tether,705,USDT,Sberbank,73038.705,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-19 03:09:00,Bitcoin,0.0029,BTC,Tinkoff,30697.8330461,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-19 03:30:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000537,BTC,https://avanchange.com/,1808,trc erc bep ton
