@@ -7353,3 +7353,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-20 18:34:00,USDT TRC20,0,?,Альфа-банк,15000,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-20 18:31:00,Solana,0,?,Т-Банк (Тинькофф),12584,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-20 18:37:00,USDT TRC20,0,?,Т-Банк (Тинькофф),30713,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 15:50:18.022909,Tether(USDT)TRC20,777,USDT,Райффайзен(RUB),79960,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.054598,Ethereum(ETH),0.5,ETH,Желтыйбанк(RUB),170140,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.100227,КартаМир(RUB),15000,RUB,Tron(TRX),564.427,TRX,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.127904,Tether(USDT)TRC20,777.57,USDT,Желтыйбанк(RUB),80000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.152547,Litecoin(LTC),10.887,LTC,Желтыйбанк(RUB),134780,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.238420,СБП(RUB),99700,RUB,Ripple(XRP),289.832,XRP,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:50:18.285713,Красныйбанк(RUB),174550,RUB,BTC,0.015,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 18:48:00,Т-Банк (Тинькофф),0,?,Solana,0.174129,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:49:00,USDT TRC20,0,?,Т-Банк (Тинькофф),20000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:48:00,USDT BEP20,0,?,Альфа-банк,17404,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:44:00,Сбербанк,0,?,USDT BEP20,43,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:40:00,Т-Банк (Тинькофф),0,?,Solana,0.350126,SOL,https://avanchange.com/,1808,trc erc bep ton
