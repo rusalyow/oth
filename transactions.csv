@@ -7318,3 +7318,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-20 17:48:00,Ether,1,ETH,not,631953.787,NOT,https://bobr.exchange/,0,trc erc bep
 2025-01-20 16:19:00,Tether,450,USDT,Visa-Master,1520.55,BYN,https://bobr.exchange/,0,trc erc bep
 2025-01-20 15:22:00,Tether,3000,USDT,qq,3001.2004802,USD,https://bobr.exchange/,0,trc erc bep
+2025-01-20 18:09:00,Visa-Master-Mir,1130,RUB,20799102-logo-moneygo1,1023.16,RUB,https://barry24.com,11204,trc erc bep
+2025-01-20 16:31:00,Tether,700,USDT,Sberbank,72446.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-20 17:58:00,photo-2024-12-15-15-18-16,90000,RUB,Tether,840.0122,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-20 17:49:00,Sberbank,45000,RUB,Tether,420.1096,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-20 17:58:00,Ether,0.137841,ETH,Sberbank,46558.8593197,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-20 17:04:00,1mir,6000,RUB,bitcoin-btc-logo,0.00048393,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-20 16:51:00,logo-sbermarket-square-be8e750b,11000,RUB,bitcoin-btc-logo,0.00091291,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-20 15:20:17.689033,BTC,0.004,BTC,Красныйбанк(RUB),47000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:20:17.711219,BTC,0.005,BTC,Зеленыйбанк(RUB),50360,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:20:17.733189,Желтыйбанк(RUB),54100,RUB,BTC,0.005,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 15:20:17.755068,Зеленыйбанк(RUB),95000,RUB,BTC,0.009,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-20 18:18:00,USDT TRC20,0,?,Т-Банк (Тинькофф),71665,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:17:00,Альфа-банк,0,?,Solana,0.176087,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:18:00,USDT TRC20,0,?,ЮMoney,10238,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:16:00,USDT TRC20,0,?,ЮMoney,25595,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:16:00,Т-Банк (Тинькофф),0,?,Solana,0.176665,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-20 18:02:00,Tether,500,USDT,Visa-Master,196999.1,AMD,https://bobr.exchange/,0,trc erc bep
