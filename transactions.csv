@@ -5576,3 +5576,11 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-19 20:50:17.652025,Банковскаякарта(RUB),10000,RUB,Toncoin(TON),18.531,TON,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-19 23:42:00,Solana,0,?,Т-Банк (Тинькофф),24450,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-19 23:42:00,USDT TON,0,?,Альфа-банк,24059,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 23:55:00,Sistema-byistryih-platezhey,1000,RUB,20799102-logo-moneygo1,905.45,RUB,https://barry24.com,11204,trc erc bep
+2025-01-19 23:40:00,Tether,800,USDT,Dogecoin,2214.83917414,DOGE,https://buhtaobmena.me,11221,trc bep
+2025-01-19 21:00:26.124964,Красныйбанк(RUB),30000,RUB,Tether(USDT)TRC20,270.69,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 21:00:26.142513,Зеленыйбанк(RUB),50000,RUB,Ethereum(ETH),0.14,ETH,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 21:00:26.159890,Газпромбанк(RUB),500000,RUB,Tether(USDT)TRC20,4511.4,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-19 23:48:00,USDT BEP20,0,?,Litecoin,2.611928,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 23:46:00,Solana,0,?,Т-Банк (Тинькофф),24450,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-19 23:51:00,VISA/MasterCard,0,?,USDT TON,81,USDT,https://avanchange.com/,1808,trc erc bep ton
