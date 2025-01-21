@@ -8913,3 +8913,21 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-21 11:31:00,Tether,740,USDT,20-SBP,76073.85,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-21 15:53:00,Tether,100,USDT,Visa-Master,338.1,BYN,https://bobr.exchange/,0,trc erc bep
 2025-01-21 16:01:00,Tether,2000,USDT,Bitcoin,0.01893863,BTC,https://bobr.exchange/,0,trc erc bep
+2025-01-21 14:59:00,Sberbank,70000,RUB,Tether,671.4822,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 15:56:00,photo-2024-12-15-15-18-16,63200,RUB,Tether,605.8875,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 15:47:00,VTB,500000,RUB,Tether,4783.7917,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 15:42:00,logo-sbermarket-square-be8e750b,13100,RUB,monero-xmr-logo,0.54953964,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 15:56:00,pngegg,45000,RUB,bitcoin-btc-logo,0.00396915,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 16:00:00,logo-sbermarket-square-be8e750b,5700,RUB,bitcoin-btc-logo,0.00048286,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 15:54:00,free-png.ru-126,7100,RUB,bitcoin-btc-logo,0.00059951,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 15:37:00,logo-sbermarket-square-be8e750b,14400,RUB,bitcoin-btc-logo,0.00126131,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 13:22:16.164998,Tether(USDT)BEP20,500,USDT,СБП(RUB),50500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 13:22:16.193880,BTC,0.006,BTC,Зеленыйбанк(RUB),68320,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 13:22:16.220537,Litecoin(LTC),4.198,LTC,СБП(RUB),51460,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 13:22:16.347017,BTC,0.006,BTC,Зеленыйбанк(RUB),67090,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 16:17:00,USDT TRC20,0,?,VISA/MasterCard,262759,KZT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 16:18:00,Т-Банк (Тинькофф),0,?,USDT BEP20,250,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 16:13:00,USDT TRC20,0,?,Альфа-банк,34934,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 16:13:00,USDT TRC20,0,?,ЮMoney,31035,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 15:21:00,Tether,1067.6497,USDT,photo-2024-12-15-15-18-16,108158.2529,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-21 16:02:00,Tether,1418,USDT,Alipay,10214.9884,CNY,https://bobr.exchange/,0,trc erc bep
