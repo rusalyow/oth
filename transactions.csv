@@ -7832,3 +7832,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-19 16:29:00,Ether,0.438978,ETH,photo-2024-12-15-15-18-16,155076.8694,RUB,https://finex24.io,10943,trc,erc,bep
 2025-01-21 03:27:00,photo-2024-12-15-15-18-16,300000,RUB,Tether,2839.5754,USDT,https://finex24.io,10943,trc,erc,bep
 2025-01-21 01:30:19.581581,BTC,0.006,BTC,Желтыйбанк(RUB),65480,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 03:26:00,Bitcoin,0.002,BTC,Sberbank,20747.1798789,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-21 01:40:14.144521,BTC,0.012,BTC,Зеленыйбанк(RUB),124710,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 04:36:00,USDT TRC20,0,?,Т-Банк (Тинькофф),35060,RUB,https://avanchange.com/,1808,trc erc bep ton
