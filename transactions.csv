@@ -8709,3 +8709,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-21 12:56:00,photo-2024-12-15-15-18-16,97612,RUB,Tether,936.2695,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-21 12:44:00,Sberbank,49000,RUB,Tether,469.9,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-21 14:03:00,Tether,570,USDT,Visa-Master,50347.872,KGS,https://bobr.exchange/,0,trc erc bep
+2025-01-21 12:26:00,Tether,701,USDT,Sberbank,71898.5557,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-21 13:35:00,Sberbank,45000,RUB,Tether,430.803,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 13:57:00,VTB,239640,RUB,Tether,2299.5697,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 10:13:00,Tether,391.74,USDT,829646962,40000.5714,RUB,https://btchange.ru,11173,trc erc
+2025-01-21 13:44:00,df0995df78466626688b06e0e0bca7b5,5000,RUB,bitcoin-cash-bch-logo,0.10353222,BCH,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 13:56:00,1636181648-52-papik-pro-p-promsvyazbank-logotip-foto-55,5000,RUB,ton-symbol,8.51086648,TON,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 11:32:18.224546,Tether(USDT)BEP20,495,USDT,Желтыйбанк(RUB),50140,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 11:32:18.274978,Зеленыйбанк(RUB),125000,RUB,BTC,0.011,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 11:32:18.401815,Банковскаякарта(RUB),210000,RUB,Tether(USDT)POLYGON,1981.13,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 14:29:00,USDT TRC20,0,?,Т-Банк (Тинькофф),301405,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 14:27:00,Solana,0,?,Т-Банк (Тинькофф),10237,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 14:25:00,Альфа-банк,0,?,Polygon,99,POL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 14:25:00,USDT BEP20,0,?,СБП,17082,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 14:24:00,USDT TRC20,0,?,Т-Банк (Тинькофф),17886,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 12:55:00,TRON-Icon-icon,350,USDT,Tinkoff-RUB,35563.5,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-21 13:57:00,TRON-Icon-icon,200,USDT,Promsvyazbank-RUB,18132,RUB,https://yaobmen.cash,10913,trc erc bep
