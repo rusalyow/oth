@@ -8089,3 +8089,14 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-21 08:22:00,USDT ERC20,0,?,Сбербанк,20662,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-21 06:26:00,Tether,204.499,USDT,Alfabank,20000,RUB,https://bobr.exchange/,0,trc erc bep
 2025-01-21 08:18:00,Tether,692.1661,USDT,Alipay,5000.0003,CNY,https://bobr.exchange/,0,trc erc bep
+2025-01-21 08:14:00,Bitcoin,0.002448,BTC,Visa-Master,9591,UAH,https://barry24.com,11204,trc erc bep
+2025-01-21 08:02:00,20-SBP,40000,RUB,Tether,378.5735,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 08:08:00,Alfabank,70000,RUB,Tether,662.8355,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 05:42:22.730173,СБП(RUB),100000,RUB,Tether(USDT)BEP20,927.41,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 05:42:22.846173,Банковскаякарта(RUB),20000,RUB,USDCoin(USDC)SOL,180.39,USDC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 08:40:00,USDT ERC20,0,?,Monero,12,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:36:00,USDT TON,0,?,Т-Банк (Тинькофф),19848,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:34:00,USDT BEP20,0,?,ЮMoney,10178,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:34:00,Dogecoin,0,?,Т-Банк (Тинькофф),13313,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:32:00,Т-Банк (Тинькофф),0,?,Solana,0.182495,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:19:00,Tether,1000,USDT,15-Visa,3674.4,AED,https://bobr.exchange/,0,trc erc bep
