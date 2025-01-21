@@ -9448,3 +9448,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-21 19:50:17.357551,Tether(USDT)ERC20,501,USDT,Зеленыйбанк(RUB),50010,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-21 22:42:00,Monero,0,?,Т-Банк (Тинькофф),12788,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-21 20:44:00,Litecoin-Logo-scaled,4.149,LTC,Sberbank,50073.37,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-21 22:56:00,Сбербанк,0,?,USDT TRC20,73,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 22:56:00,VISA/MasterCard,0,?,Notcoin,94836,NOT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 22:55:00,Ethereum,0,?,USDT BEP20,442,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 22:54:00,USDT Polygon,0,?,USDT TRC20,55347,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 22:04:00,Tether,400,USDT,Bez-nazvaniya,40136,RUB,https://niceobmen.com,10334,trc erc bep
