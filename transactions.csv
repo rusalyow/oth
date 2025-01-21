@@ -8809,3 +8809,22 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-21 14:44:00,Sberbank,56000,RUB,Tether,535.1508,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-21 14:43:00,Sberbank,79500,RUB,Tether,759.723,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-21 14:56:00,Tether,802,USDT,Litecoin,6.7012704,LTC,https://bobr.exchange/,0,trc erc bep
+2025-01-21 15:00:00,Sberbank,103950,RUB,Tether,993.6016,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 15:00:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,382.5193,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 14:50:00,photo-2024-12-15-15-18-16,60000,RUB,Tether,581.8142,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-21 14:49:00,Tether,335,USDT,1622-oooo.plus-,33835,RUB,https://btchange.ru,11173,trc erc
+2025-01-21 14:35:00,Tether,365,USDT,1622-oooo.plus-,36865,RUB,https://btchange.ru,11173,trc erc
+2025-01-21 14:37:00,pngegg-2,8000,RUB,ton-symbol,13.91332738,TON,https://cripthub.ru/,1789,trc erc bep
+2025-01-21 12:22:17.092978,Tether(USDT)TRC20,500,USDT,Зеленыйбанк(RUB),50370,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 12:22:17.118885,Solana(SOL),3,SOL,Зеленыйбанк(RUB),71800,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 12:22:17.223587,Райффайзен(RUB),50000,RUB,Tether(USDT)BEP20,473.46,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 12:22:17.276851,Желтыйбанк(RUB),300000,RUB,Tether(USDT)TRC20,2851.73,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 15:05:00,Tether,270.59,USDT,Tinkoff,27200,RUB,https://changeexpert.io,22783,trc trx
+2025-01-21 15:20:00,USDT TRC20,0,?,СБП,11533,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 15:20:00,USDT TON,0,?,Т-Банк (Тинькофф),10029,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 15:19:00,USDT BEP20,0,?,СБП,44521,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 15:18:00,USDT TRC20,0,?,VISA/MasterCard,10129,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 15:16:00,USDT TRC20,0,?,Kaspi Bank,89132,KZT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 14:01:00,TRON-Icon-icon,295.75,USDT,Sberbank-RUB-,29980.18,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-21 13:59:00,TRON-Icon-icon,297,USDT,Sberbank-RUB-,30112.83,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-21 12:41:00,Bitcoin-BTC,0.004,BTC,Tinkoff-RUB,41927.55,RUB,https://yaobmen.cash,10913,trc erc bep
