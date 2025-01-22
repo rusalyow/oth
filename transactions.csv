@@ -9596,3 +9596,9 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-22 03:14:00,USDT TRC20,0,?,Альфа-банк,19695,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-22 03:17:00,Sberbank,50000,RUB,Tether,484.7164,USDT,https://finex24.io,10943,trc,erc,bep
 2025-01-22 00:30:17.986668,Tether(USDT)TRC20,2500,USDT,Желтыйбанк(cashin),249300,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-21 22:51:00,Tether,1000,USDT,Sberbank,100033.9,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-21 21:03:00,Tether,5331,USDT,photo-2024-12-15-15-18-16,537122.2395,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-22 02:56:00,Alfabank,40000,RUB,Tether,387.7318,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-22 00:40:18.872323,Tether(USDT)ERC20,600,USDT,СБП(RUB),59960,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 00:40:18.904843,Dogecoin(DOGE),1800,DOGE,Зеленыйбанк(RUB),67230,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 03:38:00,Альфа-банк,0,?,Litecoin,0.810219,LTC,https://avanchange.com/,1808,trc erc bep ton
