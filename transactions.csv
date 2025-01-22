@@ -9589,3 +9589,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-22 00:10:18.237448,BTC,0.005,BTC,Зеленыйбанк(RUB),50020,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-22 00:10:18.286412,BTC,0.012,BTC,Зеленыйбанк(RUB),126890,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-22 03:03:00,Т-Банк (Тинькофф),0,?,Solana,0.356118,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-21 08:47:00,usdttrc20,2522.4498,USD,Cash-USD,2500,USD,https://keine-exchange.com,997,trc erc bep
+2025-01-21 08:27:00,usdttrc20,3348,USD,Cash-RUB,345882.2148,RUB,https://keine-exchange.com,997,trc erc bep
+2025-01-22 02:57:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,387.7682,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-22 00:20:17.781868,Tether(USDT)ERC20,801,USDT,Зеленыйбанк(RUB),80050,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 03:14:00,USDT TRC20,0,?,Альфа-банк,19695,RUB,https://avanchange.com/,1808,trc erc bep ton
