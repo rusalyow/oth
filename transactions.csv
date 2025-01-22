@@ -10048,3 +10048,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-22 19:30:00,Sberbank,43000,RUB,Tether,417.6432,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-22 19:28:00,Sberbank,40400,RUB,Tether,392.3903,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-22 19:27:00,Sberbank,96500,RUB,Tether,937.2708,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-22 19:10:00,Sberbank,60000,RUB,Bitcoin,0.00556201,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-22 16:50:18.160501,Notcoin(NOT),9500,NOT,Toncoin(TON),9.479,TON,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 16:50:18.188541,BTC,0.016,BTC,Желтыйбанк(RUB),170000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 19:44:00,USDT TON,0,?,СБП,19003,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-22 19:40:00,USDT TON,0,?,Сбербанк,9870,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-22 19:43:00,Sberbank,51477.9,RUB,Tether,500,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-22 19:20:00,Tether,1800,USDT,Alipay,12863.7,CNY,https://nadex.io/,19731,trc erc bep
+2025-01-22 19:38:00,Alfabank,55500,RUB,Tether,536.3417,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-22 17:55:00,Tether,3989.4718,USDT,Alfabank,399950.1332,RUB,https://bobr.exchange/,0,trc erc bep
