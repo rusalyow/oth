@@ -10285,3 +10285,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 00:20:00,Monero,2,XMR,Sberbank,43912.820474,RUB,https://buhtaobmena.me,11221,trc bep
 2025-01-23 00:25:00,Tether,500,USDT,Alfabank,49479.305,RUB,https://buhtaobmena.me,11221,trc bep
 2025-01-23 00:44:00,Альфа-банк,0,?,Litecoin,0.658608,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-22 20:36:00,Tether,1000,USDT,Sberbank,99993.2,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-22 22:00:16.836768,Litecoin(LTC),10.56,LTC,Красныйбанк(RUB),120920,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-22 22:00:16.865617,Желтыйбанк(RUB),50000,RUB,OfficialTrump(TRUMP),12.3,TRUMP,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 00:49:00,USDT Polygon,0,?,Т-Банк (Тинькофф),10997,RUB,https://avanchange.com/,1808,trc erc bep ton
