@@ -11588,3 +11588,22 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 15:03:00,Tether,500,USDT,Alfabank,50495.05,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-23 13:53:00,Tether,700,USDT,Sberbank,71189.02,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-23 16:29:00,VTB,46000,RUB,Tether,447.9179,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 17:03:00,Cash,610000,RUB,Tether,5962.2715,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-23 15:50:00,Tether,1000,USDT,Sberbank,100973.3,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 15:34:00,Tether,700,USDT,photo-2024-12-15-15-18-16,70773.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 16:14:00,Bitcoin,0.005,BTC,Tinkoff,52405.5261572,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 16:50:00,Tether,450,USDT,Tinkoff,44927.170875,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 16:58:00,53-Jusan-Bank,900000,KZT,Tinkoff,157087.2532421,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 16:35:00,free-png.ru-126,5600,RUB,monero-xmr-logo,0.22524242,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 14:20:18.707882,BTC,0.005,BTC,Желтыйбанк(RUB),57470,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 14:20:18.746748,Tether(USDT)TRC20,498,USDT,СБП(RUB),50160,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 14:20:18.783415,Ethereum(ETH)BEP20,0.31,ETH,Желтыйбанк(cashin),100000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 14:20:18.887471,Litecoin(LTC),3.32,LTC,Dogecoin(DOGE),1083.37,DOGE,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 17:17:00,TRON,0,?,Сбербанк,11145,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:14:00,Ethereum,0,?,Т-Банк (Тинькофф),11590,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:08:00,Т-Банк (Тинькофф),0,?,Polygon,104,POL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:17:00,USDT TRC20,0,?,Т-Банк (Тинькофф),12438,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:15:00,Binance Coin (BEP20),0,?,СБП,18116,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:04:00,Sberbank,65406.9228,RUB,Tether,634.3018,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 16:38:00,photo-2024-12-15-15-18-16,41500,RUB,Tether,404.1549,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 16:33:00,VTB,40000,RUB,Tether,389.6885,USDT,https://nadex.io/,19731,trc erc bep
