@@ -10768,3 +10768,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 07:00:20.409857,Tether(USDT)TRC20,3000,USDT,Желтыйбанк(RUB),302170,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-23 09:10:00,Bitcoin-BTC,0.300882,BTC,Cash,30650.9962,USD,https://yaobmen.cash,10913,trc erc bep
 2025-01-23 09:38:00,Tether,3000,USDT,Bank-transfer,48580920,IDR,https://bobr.exchange/,0,trc erc bep
+2025-01-23 09:02:00,Tether,4245.0995,USDT,Alipay,30341.4242,CNY,https://finex24.io,10943,trc,erc,bep
+2025-01-23 08:20:00,VTB,250000,RUB,Bitcoin,0.02266043,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-23 09:45:00,Vakifbank-Logo-2008-2048x1152-1,19379.9801,TRY,Raiffaisen,50015.0173649,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 09:32:00,logo-sbermarket-square-be8e750b,5000,RUB,litecoin-ltc-logo,0.39243684,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 09:39:00,free-png.ru-126,11000,RUB,bitcoin-btc-logo,0.00097897,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 09:40:00,png-transparent-raiffeisenbank-raiffeisen-zentralbank-raiffeisen-bankengruppe-raiffeisen-bank-international-bank-angle-text-rectangle,6000,RUB,bitcoin-btc-logo,0.00051772,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 09:30:00,free-png.ru-126,7500,RUB,bitcoin-btc-logo,0.00064472,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 09:18:00,free-png.ru-126,6700,RUB,bitcoin-btc-logo,0.00057676,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 07:10:16.736822,Litecoin(LTC),4.47,LTC,Зеленыйбанк(RUB),50660,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:06:00,Binance Coin (BEP20),0,?,Сбербанк,12000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 10:01:00,USDT BEP20,0,?,TRON,120,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 09:22:00,Tether,1100,USDT,Visa,20042,MDL,https://bobr.exchange/,0,trc erc bep
