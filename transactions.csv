@@ -10275,3 +10275,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 00:12:00,Ethereum,0,?,USDT ERC20,4460,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 00:17:00,USDT TRC20,0,?,VISA/MasterCard,19463,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 00:15:00,TRON,0,?,СБП,49366,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 00:04:00,Sberbank,100000,RUB,freedom-finance-01,495880,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-23 00:07:00,Tether,151,USDT,Bank-transfer,14942.75011,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-22 23:52:00,Litecoin,2.7,LTC,Sberbank,30315.7529593,RUB,https://buhtaobmena.me,11221,trc bep
