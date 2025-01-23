@@ -10376,3 +10376,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 01:10:15.533482,СБП(RUB),60000,RUB,Solana(SOL),2.286,SOL,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-23 01:10:15.562556,Tether(USDT)TRC20,500.86,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-23 03:56:00,Т-Банк (Тинькофф),0,?,Ethereum,0.014209,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-22 08:59:00,Cash-RUB,500000,RUB,tether,4875.89387,USD,https://keine-exchange.com,997,trc erc bep
+2025-01-22 08:48:00,Cash-RUB,700000,RUB,usdttrc20,6829.9413,USD,https://keine-exchange.com,997,trc erc bep
+2025-01-23 03:53:00,Tinkoff,24600,RUB,trump-coin,6.014712,TRUMP,https://buhtaobmena.me,11221,trc bep
+2025-01-23 04:16:00,Ethereum,0,?,Litecoin,0.885112,LTC,https://avanchange.com/,1808,trc erc bep ton
