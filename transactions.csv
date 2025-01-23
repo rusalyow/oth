@@ -10306,3 +10306,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-22 22:40:14.831150,Зеленыйбанк(RUB),56000,RUB,Tether(USDT)TRC20,537.9,USDT,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-22 23:00:17.583254,Зеленыйбанк(RUB),50000,RUB,Solana(SOL),1.873,SOL,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-23 01:22:00,free-png.ru-126,5100,RUB,bitcoin-btc-logo,0.0004358,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 01:58:00,Sberbank,55000,RUB,Tether,538.5942,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-23 01:53:00,photo-2024-12-15-15-18-16,125000,RUB,Tether,1225.0074,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-22 21:32:00,Tether,740,USDT,VTB,72579.274,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 01:39:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,391.9924,USDT,https://nadex.io/,19731,trc erc bep
