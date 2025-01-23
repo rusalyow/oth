@@ -10293,3 +10293,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 00:43:00,photo-2024-12-15-15-18-16,495000,RUB,Tether,4850.3781,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-22 22:34:00,Tether,1677,USDT,photo-2024-12-15-15-18-16,168719.7837,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-22 22:14:00,Ether,0.91,ETH,photo-2024-12-15-15-18-16,296280.5361,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-23 00:54:00,photo-2024-12-15-15-18-16,231000,RUB,Tether,2263.5541,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-22 20:48:00,Tether,805,USDT,photo-2024-12-15-15-18-16,80540.25,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-22 21:31:00,Bitcoin,0.00675,BTC,photo-2024-12-15-15-18-16,70029.8309,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 01:07:00,Tether,401,USDT,Alfabank,39686.34444,RUB,https://buhtaobmena.me,11221,trc bep
