@@ -11114,3 +11114,17 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 12:52:00,Т-Банк (Тинькофф),0,?,Litecoin,1.0077,LTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 12:49:00,USDT BEP20,0,?,СБП,16218,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 12:20:00,20-SBP,30000,RUB,Tether,291.9753,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 13:05:00,Sistema-byistryih-platezhey,1011,RUB,20799102-logo-moneygo1,915.41,RUB,https://barry24.com,11204,trc erc bep
+2025-01-23 13:03:00,Sistema-byistryih-platezhey,1005,RUB,20799102-logo-moneygo1,909.98,RUB,https://barry24.com,11204,trc erc bep
+2025-01-23 09:23:00,Tether,1040,USDT,Sberbank,106104.544,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 12:00:00,VTB,350000,RUB,Bitcoin,0.03304444,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-23 09:29:00,Tether,1780,USDT,Sberbank,180755.44,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 10:10:20.317997,Litecoin(LTC),7.238,LTC,Синийбанк(RUB),81700,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:10:20.356639,Tether(USDT)ERC20,498.67,USDT,Зеленыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:10:20.390604,Tether(USDT)TRC20,596.29,USDT,Райффайзен(RUB),60000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:10:20.424173,Tether(USDT)TRC20,500,USDT,Зеленыйбанк(RUB),50280,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:10:20.457571,Tether(USDT)BEP20,520,USDT,КартаМир(RUB),52340,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 10:10:20.495763,Банковскаякарта(RUB),212000,RUB,Tether(USDT)POLYGON,2028.51,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 13:02:00,USDT TRC20,0,?,VISA/MasterCard,20000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 13:07:00,Dogecoin,0,?,Т-Банк (Тинькофф),9684,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 12:28:00,VTB,91500,RUB,Bitcoin,0.00875,BTC,https://nadex.io/,19731,trc erc bep
