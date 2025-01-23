@@ -11671,3 +11671,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 17:18:00,Sberbank,130000,RUB,Bitcoin,0.011579,BTC,https://nadex.io/,19731,trc erc bep
 2025-01-23 14:29:00,Tether,980,USDT,Sberbank,99798.3,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-23 14:23:00,Tether,700,USDT,photo-2024-12-15-15-18-16,71235.5,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-23 17:57:00,Tinkoff,1100,RUB,20799102-logo-moneygo1,996,RUB,https://barry24.com,11204,trc erc bep
+2025-01-23 16:43:00,Tether,700,USDT,photo-2024-12-15-15-18-16,71060.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 17:01:00,Tether,1838,USDT,photo-2024-12-15-15-18-16,186621.33,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 16:00:00,Bitcoin,0.00255,BTC,Alfabank,26924.8122778,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 17:03:00,pngegg,11000,RUB,bitcoin-cash-bch-logo,0.22925178,BCH,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 17:34:00,logo-sbermarket-square-be8e750b,6400,RUB,bitcoin-btc-logo,0.00051678,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 15:10:16.602989,Litecoin(LTC),8,LTC,USDCoin(USDC)SOL,925.08,USDC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 15:10:16.683979,BTC,0.005,BTC,Желтыйбанк(RUB),56960,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 18:03:00,USDT TON,0,?,СБП,49600,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 18:06:00,Сбербанк,0,?,Bitcoin,0.00243,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 18:02:00,Альфа-банк,0,?,USDT BEP20,135,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:59:00,Ethereum,0,?,Сбербанк,20216,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:59:00,Т-Банк (Тинькофф),0,?,TRON,253,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 17:43:00,Cash,1560000,RUB,Tether,15305.8972,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 17:45:00,photo-2024-12-15-15-18-16,74847.6693,RUB,Tether,729.0036,USDT,https://nadex.io/,19731,trc erc bep
