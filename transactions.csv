@@ -10740,3 +10740,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 07:53:00,Bitcoin,0.048875,BTC,Cash,505000,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-23 07:49:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,101785.7,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-23 07:45:00,Tether,839,USDT,photo-2024-12-15-15-18-16,85386.4563,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-23 08:46:00,Tether,906.9152,USDT,Alipay,6480.1812,CNY,https://finex24.io,10943,trc,erc,bep
+2025-01-23 09:31:00,Tether,350,USDT,829646962,35003.5,RUB,https://btchange.ru,11173,trc erc
+2025-01-23 09:39:00,Tinkoff,45000,RUB,Tether,426.5548,USDT,https://buhtaobmena.me,11221,trc bep
+2025-01-23 09:38:00,Alfabank,100000,RUB,Visa-Master,491410,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-23 09:24:00,free-png.ru-126,8500,RUB,polygon-matic-logo,177.57,MATIC,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 09:10:00,free-png.ru-126,29000,RUB,monero-xmr-logo,1.20975402,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-23 06:50:15.333434,Tether(USDT)TRC20,18000,USDT,Наличные(USD),17799,USD,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 06:50:15.363330,Tether(USDT)TRC20,495.35,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 06:50:15.393492,Желтыйбанк(RUB),115000,RUB,BTC,0.011,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 06:50:15.423806,Tether(USDT)TRC20,495.45,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 06:50:15.453529,Tether(USDT)TRC20,496.39,USDT,СБП(RUB),50100,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 06:50:15.483512,СБП(RUB),91000,RUB,BTC,0.009,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-23 09:46:00,Litecoin,0,?,Т-Банк (Тинькофф),29735,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 09:37:00,USDT Solana,0,?,Райффайзен,38926,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 09:38:00,USDT TRC20,0,?,TRON,400,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 09:05:00,Tether,1500,USDT,Visa-Master,1440.45,EUR,https://bobr.exchange/,0,trc erc bep
