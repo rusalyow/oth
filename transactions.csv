@@ -10900,3 +10900,21 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-23 11:17:00,USDT BEP20,0,?,Сбербанк,17810,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 11:13:00,USDT TRC20,0,?,Сбербанк,9950,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-23 10:42:00,Tether,6257,USDT,Alipay,44949.6623,CNY,https://bobr.exchange/,0,trc erc bep
+2025-01-23 11:14:00,Bitcoin,0.00588,BTC,Visa-Master-Mir,53512,RUB,https://barry24.com,11204,trc erc bep
+2025-01-23 08:59:00,Tether,1500,USDT,photo-2024-12-15-15-18-16,153369.45,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-23 10:51:00,Sberbank,102500,RUB,Bitcoin,0.00958376,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-23 09:53:00,20-SBP,50000,RUB,Bitcoin,0.00455105,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-23 10:56:00,Tether,630,USDT,51e6f562-46d7-4e67-9da0-8fa8f9146c15,63441,RUB,https://btchange.ru,11173,trc erc
+2025-01-23 11:11:00,Bank-transfer,15000,RUB,Visa-Master,74409,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-23 10:24:00,Bitcoin,0.00121,BTC,10-Karta-Mir,12226.6299,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-23 11:29:00,Ethereum,0,?,USDT TRC20,5003,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 11:29:00,Solana,0,?,Т-Банк (Тинькофф),16566,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 11:27:00,USDT TRC20,0,?,СБП,15000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 11:29:00,USDT Polygon,0,?,USDT BEP20,852,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 11:20:00,USDT TRC20,0,?,Т-Банк (Тинькофф),29949,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-23 11:01:00,Sberbank,41000,RUB,Tether,398.8323,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 11:06:00,Sberbank,40000,RUB,Tether,389.1073,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 10:58:00,Sberbank,45000,RUB,Tether,437.7415,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-23 11:24:00,Tether,190,USDT,Ripple,61.1272845,XRP,https://bobr.exchange/,0,trc erc bep
+2025-01-23 11:20:00,Tether,890,USDT,Monero,4.03674618,XMR,https://bobr.exchange/,0,trc erc bep
+2025-01-23 10:56:00,Tether,3527.02,USDT,Bank-transfer,25300.0199,CNY,https://bobr.exchange/,0,trc erc bep
