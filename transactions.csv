@@ -13604,3 +13604,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-24 17:04:00,Tether,1000,USDT,Alfabank,100030,RUB,https://bobr.exchange/,0,trc erc bep
 2025-01-24 16:41:00,Tether,1000,USDT,Tinkoff,100362.7,RUB,https://bobr.exchange/,0,trc erc bep
 2025-01-24 17:21:00,Tether,100,USDT,Visa-Master,323.44,BYN,https://bobr.exchange/,0,trc erc bep
+2025-01-24 18:02:00,Visa-Master-Mir,1000,RUB,20799102-logo-moneygo1,905.45,RUB,https://barry24.com,11204,trc erc bep
+2025-01-24 18:02:00,Visa-Master-Mir,20000,RUB,20799102-logo-moneygo1,18109,RUB,https://barry24.com,11204,trc erc bep
+2025-01-24 14:57:00,Tether,800,USDT,photo-2024-12-15-15-18-16,80564.08,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-24 14:24:00,Tether,2500,USDT,photo-2024-12-15-15-18-16,251625.75,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-24 17:28:00,Bitcoin,0.01423264,BTC,Sberbank,149235.6654546,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-24 16:57:00,Bitcoin,0.00153922,BTC,20-SBP,16050.2495798,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-24 17:33:00,1mir,7000,RUB,litecoin-ltc-logo,0.51945876,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-24 15:10:18.301089,BTC,0.004,BTC,КартаМир(RUB),45210,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 15:10:18.345172,Solana(SOL),0.19,SOL,Желтыйбанк(RUB),5020,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 15:10:18.383895,Tether(USDT)TRC20,4523.54,USDT,Красныйбанк(RUB),450000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 15:10:18.670138,СБП(RUB),74000,RUB,Tether(USDT)TRC20,710.55,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 18:03:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000849,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 17:59:00,Сбербанк,0,?,TRON,211,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 18:06:00,Litecoin,0,?,СБП,61055,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 12:55:00,Bitcoin,0.005256,BTC,photo-2024-12-15-15-18-16,55552.3213,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-24 14:42:00,Tether,700,USDT,photo-2024-12-15-15-18-16,70500.78,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-24 14:38:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,100725.7,RUB,https://nadex.io/,19731,trc erc bep
