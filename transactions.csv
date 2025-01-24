@@ -13386,3 +13386,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-24 13:00:17.851881,Tether(USDT)BEP20,603.26,USDT,СБП(RUB),60000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-24 13:00:18.003118,Tron(TRX),1450,TRX,Желтыйбанк(RUB),37230,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-24 15:25:00,20-SBP,50000,RUB,Tether,490.6112,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-24 15:48:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,984.1774,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-24 14:00:00,Tether,1000,USDT,Sberbank,100656.3,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-24 15:44:00,VTB,100000,RUB,Bitcoin,0.00890001,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-24 15:59:00,Tinkoff,50000,RUB,Monero,2.17062494,XMR,https://buhtaobmena.me,11221,trc bep
+2025-01-24 15:26:00,1mir,11700,RUB,monero-xmr-logo,0.47896336,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-24 15:30:00,free-png.ru-126,7000,RUB,solana-sol-logo,0.23767431,SOL,https://cripthub.ru/,1789,trc erc bep
+2025-01-24 13:10:21.002068,Tether(USDT)TRC20,700,USDT,Промсвязьбанк(RUB),69650,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 13:10:21.077453,Tether(USDT)TRC20,526.96,USDT,Зеленыйбанк(RUB),52500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 13:10:21.115545,Tether(USDT)TRC20,700,USDT,Зеленыйбанк(RUB),69730,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 13:10:21.153543,BTC,0.006,BTC,Зеленыйбанк(RUB),57930,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 13:10:21.190769,Tether(USDT)TON,402.01,USDT,Желтыйбанк(RUB),40000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 16:05:00,USDT TON,0,?,Zcash,15,ZEC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 16:03:00,Т-Банк (Тинькофф),0,?,Litecoin,1.278473,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 16:03:00,USDT TON,0,?,Т-Банк (Тинькофф),14821,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 15:58:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.007911,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 15:57:00,VISA/MasterCard,0,?,Bitcoin,0.001186,BTC,https://avanchange.com/,1808,trc erc bep ton
