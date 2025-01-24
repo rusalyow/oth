@@ -13548,3 +13548,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-24 16:14:00,Visa-Master-Mir,155500,RUB,Tether,1521.2987,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-24 16:50:00,Tether,997,USDT,Sberbank,100027.6142,RUB,https://bobr.exchange/,0,trc erc bep
 2025-01-24 17:11:00,Tether,1000,USDT,Sberbank,100374.1,RUB,https://bobr.exchange/,0,trc erc bep
+2025-01-24 14:40:00,Tether,1400,USDT,photo-2024-12-15-15-18-16,140982.1,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-24 16:42:00,photo-2024-12-15-15-18-16,407880,RUB,Tether,4015.0646,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-24 16:48:00,VTB,130000,RUB,Bitcoin,0.01154401,BTC,https://finex24.io,10943,trc,erc,bep
+2025-01-24 16:49:00,logo-sbermarket-square-be8e750b,5700,RUB,litecoin-ltc-logo,0.42222267,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-24 14:40:19.199088,BTC,0.01,BTC,Желтыйбанк(cashin),100200,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.240493,Tether(USDT)BEP20,773,USDT,Желтыйбанк(RUB),77040,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.284006,Tether(USDT)TRC20,3500,USDT,Зеленыйбанк(RUB),348110,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.325445,Tether(USDT)BEP20,503,USDT,Зеленыйбанк(RUB),50010,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.367129,Tether(USDT)TRC20,502.8,USDT,Зеленыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.410013,Tether(USDT)TRC20,502.55,USDT,Красныйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 14:40:19.454238,Tether(USDT)TRC20,3000,USDT,Зеленыйбанк(RUB),298440,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 17:34:00,VISA/MasterCard,0,?,Bitcoin,0.002445,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 17:33:00,Сбербанк,0,?,Bitcoin,0.00098,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 17:33:00,Сбербанк,0,?,USDT BEP20,78,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-24 16:20:00,Bitcoin,0.00288,BTC,Sberbank,30305.88,RUB,https://niceobmen.com,10334,trc erc bep
