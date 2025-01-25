@@ -14223,3 +14223,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-25 03:10:20.295928,Зеленыйбанк(RUB),50500,RUB,Tether(USDT)TRC20,484.11,USDT,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-25 05:59:00,Т-Банк (Тинькофф),0,?,Polygon,274,POL,https://avanchange.com/,1808,trc erc bep ton
 2025-01-25 06:08:00,Dash,0,?,USDT TRC20,529,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 05:27:00,Alfabank,15000,RUB,Kaspi-bank,75846,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-25 03:20:16.015983,СБП(RUB),53980,RUB,BTC,0.005,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 06:18:00,Binance Coin (BEP20),0,?,СБП,21459,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 06:16:00,Ethereum,0,?,Т-Банк (Тинькофф),16235,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 06:09:00,Т-Банк (Тинькофф),0,?,Polygon,274,POL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 06:11:00,Dash,0,?,USDT TRC20,529,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 06:04:00,Tether,3000,USDT,Monero,13.56126505,XMR,https://bobr.exchange/,0,trc erc bep
