@@ -14070,3 +14070,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-24 23:40:16.391414,USDCoin(USDC),520,USDC,Зеленыйбанк(RUB),51570,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-25 02:29:00,USDT TRC20,0,?,Т-Банк (Тинькофф),97614,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-25 02:31:00,USDCoin (ERC20),0,?,Litecoin,8.0516,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 02:09:00,logo-sbermarket-square-be8e750b,7500,RUB,monero-xmr-logo,0.30092679,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-24 23:50:17.791727,BTC,0.06,BTC,Зеленыйбанк(RUB),625080,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 23:50:17.844103,Litecoin(LTC),4.5,LTC,Желтыйбанк(RUB),55030,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-24 23:50:17.887750,BinanceCoin(BNB),0.4,BNB,Желтыйбанк(RUB),27190,RUB,https://alfabit.org/ru/exchange,1682,trc erc
