@@ -14806,3 +14806,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-25 08:13:00,Ether,0.152,ETH,photo-2024-12-15-15-18-16,50152.8945,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-25 08:06:00,Tether,931,USDT,photo-2024-12-15-15-18-16,93864.9096,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-25 10:02:00,Tether,83.9,USDT,Visa-Master,269.3693,BYN,https://bobr.exchange/,0,trc erc bep
+2025-01-25 11:40:00,photo-2024-12-15-15-18-16,52000,RUB,Tether,513.8772,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-25 10:57:00,Tether,800,USDT,photo-2024-12-15-15-18-16,80400.48,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-25 11:47:00,Sberbank,118772.5573,RUB,Tether,1170.1741,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-25 09:11:25.203296,Tether(USDT)TRC20,504.84,USDT,Зеленыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 09:11:25.258338,Litecoin(LTC),0.77,LTC,Желтыйбанк(RUB),9380,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 09:11:25.308345,Solana(SOL),1,SOL,Желтыйбанк(RUB),24700,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 09:11:25.365304,Tether(USDT)TRC20,850,USDT,Желтыйбанк(RUB),84400,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 09:11:25.539595,Tether(USDT)TRC20,503.51,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 12:03:00,TRON,0,?,Альфа-банк,40523,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 11:59:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.003439,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 12:07:00,USDT TRC20,0,?,Сбербанк,29462,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 12:07:00,Litecoin,0,?,Сбербанк,21672,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 11:58:00,USDT BEP20,0,?,Сбербанк,20001,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 07:33:00,Tether,1281.7188,USDT,photo-2024-12-15-15-18-16,129005.1254,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-25 09:19:00,Tether,874.256,USDT,photo-2024-12-15-15-18-16,87915.0085,RUB,https://nadex.io/,19731,trc erc bep
