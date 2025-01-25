@@ -14344,3 +14344,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-25 07:43:00,USDT TRC20,0,?,TRON,389,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-01-25 07:40:00,USDT ERC20,0,?,Monero,6.97362,XMR,https://avanchange.com/,1808,trc erc bep ton
 2025-01-25 07:45:00,Dogecoin,0,?,Сбербанк,13189,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 07:28:00,photo-2024-12-15-15-18-16,200000,RUB,Tether,1966.6186,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-25 05:21:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,99712.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-25 05:16:00,Tether,5000,USDT,photo-2024-12-15-15-18-16,498688.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-25 07:45:00,Tether,233.6117,USDT,Promsvzbank,23077.0981728,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-25 07:05:00,Kaspi-bank,780000,KZT,Sberbank,138369.0195313,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-25 07:29:00,Visa-Master,14750,TRY,Sberbank,37902.052825,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-25 07:31:00,logo-sbermarket-square-be8e750b,13100,RUB,litecoin-ltc-logo,0.99197703,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-25 07:37:00,logo-sbermarket-square-be8e750b,20000,RUB,shiba-inu-shib-logo,8945058.378,SHIB,https://cripthub.ru/,1789,trc erc bep
+2025-01-25 05:00:23.116557,BTC,0.011,BTC,Зеленыйбанк(RUB),110180,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 05:00:23.155690,Tether(USDT)BEP20,51.25,USDT,Желтыйбанк(RUB),5100,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 05:00:23.195876,Tether(USDT)TRC20,2013.94,USDT,Зеленыйбанк(RUB),200000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 05:00:23.235995,Tether(USDT)TRC20,550,USDT,Желтыйбанк(RUB),54730,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-25 07:55:00,Альфа-банк,0,?,Litecoin,0.57197,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 07:55:00,Т-Банк (Тинькофф),0,?,Monero,0.867976,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-25 07:50:00,USDT Arbitrum,0,?,Сбербанк,40000,RUB,https://avanchange.com/,1808,trc erc bep ton
