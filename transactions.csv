@@ -15869,3 +15869,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 01:50:55.386473,Tether(USDT)BEP20,620,USDT,Синийбанк(RUB),60560,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-26 01:50:55.517963,Dogecoin(DOGE),150,DOGE,Желтыйбанк(RUB),5270,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-26 01:50:55.606297,Банковскаякарта(RUB),50000,RUB,BTC,0.005,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 04:40:00,Tether,261,USDT,Tinkoff,25312.079889,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-26 04:29:00,Bitcoin,0.00208,BTC,Sberbank,21163.7634183,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-26 02:00:59.023795,Tether(USDT)TON,395,USDT,Желтыйбанк(RUB),38800,RUB,https://alfabit.org/ru/exchange,1682,trc erc
