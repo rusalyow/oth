@@ -15851,3 +15851,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 01:20:57.645422,Ripple(XRP),350,XRP,Зеленыйбанк(RUB),107350,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-26 01:20:57.689753,Dogecoin(DOGE),3000,DOGE,Желтыйбанк(RUB),105190,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-26 01:20:57.734535,BTC,0.006,BTC,Желтыйбанк(RUB),63850,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 02:57:00,Sberbank,219012,RUB,Tether,2133.1084,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-26 04:01:00,Bitcoin,0.00265,BTC,Sberbank,26952.3739955,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-26 01:30:55.410584,Tether(USDT)TON,395,USDT,Желтыйбанк(RUB),39030,RUB,https://alfabit.org/ru/exchange,1682,trc erc
