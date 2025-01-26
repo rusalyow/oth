@@ -16043,3 +16043,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 07:59:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.002398,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-26 07:32:00,Alfabank,50000,RUB,Tether,489.1344,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-26 07:24:00,Visa-Master-Mir,50000,RUB,Tether,486.0711,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-26 05:22:55.916752,Ripple(XRP),17,XRP,Желтыйбанк(RUB),5260,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 05:22:55.961359,BTC,0.005,BTC,Зеленыйбанк(RUB),53020,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 05:22:56.005826,Tether(USDT)POLYGON,200,USDT,Желтыйбанк(RUB),19770,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 05:22:56.049937,Tether(USDT)TRC20,2018.35,USDT,Зеленыйбанк(RUB),200000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 05:22:56.110777,Tether(USDT)SOL,530,USDT,Синийбанк(RUB),52480,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 05:22:56.155139,Банковскаякарта(RUB),155000,RUB,Tether(USDT)POLYGON,1491.68,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 08:16:00,TRON,0,?,СБП,11635,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 08:15:00,USDT TRC20,0,?,СБП,127154,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 06:44:00,Tether,882,USDT,Sberbank,87628.3758,RUB,https://nadex.io/,19731,trc erc bep
