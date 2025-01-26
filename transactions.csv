@@ -15788,3 +15788,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-25 23:10:54.497716,Litecoin(LTC),1.631,LTC,Желтыйбанк(RUB),20000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-26 02:04:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000905,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-26 01:49:00,Sberbank,50000,RUB,Tether,495.436,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-26 01:58:00,31-Solana,1.5,SOL,Sberbank,37434.5844206,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-25 23:21:00.155104,Ethereum(ETH),0.288,ETH,Желтыйбанк(RUB),94320,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 02:16:00,Сбербанк,0,?,Monero,0.232288,XMR,https://avanchange.com/,1808,trc erc bep ton
