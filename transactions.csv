@@ -16169,3 +16169,17 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 09:10:00,Sberbank,139000,RUB,Tether,1365.2588,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-26 07:14:00,Tether,3000,USDT,photo-2024-12-15-15-18-16,298672.2,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-26 07:02:00,Tether,705,USDT,Sberbank,70097.7975,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-26 09:33:00,free-png.ru-126,5500,RUB,bitcoin-btc-logo,0.00045616,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-26 09:27:00,free-png.ru-126,6000,RUB,bitcoin-btc-logo,0.00049713,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-26 09:26:00,2031468,7100,RUB,bitcoin-btc-logo,0.00059704,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-26 08:51:00,pngegg-2,7000,RUB,bitcoin-btc-logo,0.0005782,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-26 09:14:00,pngegg,6400,RUB,bitcoin-btc-logo,0.00052952,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-26 06:53:00.683101,Litecoin(LTC),0.44,LTC,Желтыйбанк(RUB),5320,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 06:53:00.727609,Tron(TRX),202,TRX,Желтыйбанк(RUB),5000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 06:53:00.794398,BTC,0.007,BTC,СБП(RUB),72230,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 06:53:01.015096,Toncoin(TON),34,TON,Желтыйбанк(RUB),16870,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 09:45:00,USDT TRC20,0,?,Т-Банк (Тинькофф),19522,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 09:45:00,Ethereum,0,?,Т-Банк (Тинькофф),15133,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 09:43:00,Т-Банк (Тинькофф),0,?,USDT TRC20,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 09:40:00,Solana,0,?,Райффайзен,11208,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 09:44:00,Litecoin,0,?,Bitcoin,0.064455,BTC,https://avanchange.com/,1808,trc erc bep ton
