@@ -15854,3 +15854,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 02:57:00,Sberbank,219012,RUB,Tether,2133.1084,USDT,https://finex24.io,10943,trc,erc,bep
 2025-01-26 04:01:00,Bitcoin,0.00265,BTC,Sberbank,26952.3739955,RUB,https://buhtaobmena.me,11221,trc bep
 2025-01-26 01:30:55.410584,Tether(USDT)TON,395,USDT,Желтыйбанк(RUB),39030,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 04:29:00,Bitcoin,0.00208,BTC,Sberbank,21170.8462031,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-26 01:40:57.869992,Tether(USDT)BEP20,150,USDT,Желтыйбанк(RUB),14830,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 01:40:57.917448,Solana(SOL),2,SOL,Зеленыйбанк(RUB),50780,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 01:40:57.963660,Dogecoin(DOGE),150,DOGE,Желтыйбанк(RUB),5280,RUB,https://alfabit.org/ru/exchange,1682,trc erc
