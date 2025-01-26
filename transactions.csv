@@ -15922,3 +15922,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-26 06:00:00,Т-Банк (Тинькофф),0,?,Monero,0.224516,XMR,https://avanchange.com/,1808,trc erc bep ton
 2025-01-26 05:58:00,USDT ERC20,0,?,Т-Банк (Тинькофф),19463,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-26 05:36:00,Sberbank,80000,RUB,Kaspi-bank,396016,KZT,https://bobr.exchange/,0,trc erc bep
+2025-01-26 03:10:56.575451,Tether(USDT)BEP20,210,USDT,Желтыйбанк(RUB),20780,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 03:10:56.620533,Tether(USDT)TRC20,550,USDT,Желтыйбанк(RUB),54440,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 06:04:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.001611,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-26 04:55:00,Tether,700,USDT,photo-2024-12-15-15-18-16,69374.55,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-26 04:42:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,99086.5,RUB,https://nadex.io/,19731,trc erc bep
