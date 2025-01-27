@@ -17313,3 +17313,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-27 01:21:00,Bitcoin,0.00302977,BTC,Tinkoff,29998.5332874,RUB,https://buhtaobmena.me,11221,trc bep
 2025-01-26 23:00:20.479387,BTC,0.005,BTC,Синийбанк(RUB),48480,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-27 01:46:00,Сбербанк,0,?,TRON,202,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 01:47:00,Bitcoin,0.03,BTC,Visa-Master-Mir,272783,RUB,https://barry24.com,11204,trc erc bep
+2025-01-26 23:10:19.799752,Litecoin(LTC),2.34,LTC,Желтыйбанк(RUB),26370,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-26 23:10:19.853317,Tether(USDT)TRC20,1020,USDT,Желтыйбанк(RUB),100750,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 02:04:00,Monero,0,?,Ethereum,20,ETH,https://avanchange.com/,1808,trc erc bep ton
