@@ -17718,3 +17718,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-27 07:14:00,Bitcoin,0.007034,BTC,Sberbank,70018.0255,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-27 08:09:00,Sberbank,68000,RUB,Bank-transfer,21814.45,THB,https://bobr.exchange/,0,trc erc bep
 2025-01-27 07:23:00,Tether,11976.0479,USDT,Bank-transfer,11800,USD,https://bobr.exchange/,0,trc erc bep
+2025-01-27 07:46:00,Tether,1080,USDT,photo-2024-12-15-15-18-16,109826.496,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 07:24:00,Tether,1700,USDT,photo-2024-12-15-15-18-16,172678.01,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 07:17:00,Tether,2500,USDT,photo-2024-12-15-15-18-16,253812.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 08:14:00,Kaspi-bank,110000,KZT,Alfabank,19799.8416013,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-27 08:31:00,Litecoin,2,LTC,Sberbank,20610.3693144,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-27 08:27:00,Sberbank,64500,RUB,Monero,2.83935927,XMR,https://buhtaobmena.me,11221,trc bep
+2025-01-27 08:32:00,logo-sbermarket-square-be8e750b,5100,RUB,726-7265090-trx-tron-hd-png-download-PhotoRoom-1,199.68478777,TRX,https://cripthub.ru/,1789,trc erc bep
+2025-01-27 05:50:19.232482,Tether(USDT)TRC20,2750,USDT,Красныйбанк(RUB),278770,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 05:50:19.281697,Tether(USDT)TRC20,493.18,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 08:45:00,USDT TRC20,0,?,СБП,19900,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 08:46:00,USDT TON,0,?,Райффайзен,28653,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 08:42:00,Ethereum Classic,0,?,Сбербанк,9382,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 08:40:00,USDT TRC20,0,?,СБП,250074,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 08:38:00,Альфа-банк,0,?,Solana,0.912667,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 08:43:00,Tether,2812.6931,USDT,Bitcoin-cash,7.00175299,BCH,https://bobr.exchange/,0,trc erc bep
+2025-01-27 07:59:00,Tinkoff,112420,RUB,Bank-transfer,1002.4137,EUR,https://bobr.exchange/,0,trc erc bep
