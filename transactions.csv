@@ -18305,3 +18305,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-27 08:29:00,Ether,0.166608,ETH,photo-2024-12-15-15-18-16,52463.2132,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-27 13:54:00,Sberbank,50000,RUB,Tether,488.9526,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-27 11:11:00,Tether,1537,USDT,photo-2024-12-15-15-18-16,156453.0744,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-27 10:33:00,Ether,0.24,ETH,Sberbank,74239.0701,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 10:57:00,Tether,747,USDT,Sberbank,75592.9638,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 13:04:00,Tether,500,USDT,51e6f562-46d7-4e67-9da0-8fa8f9146c15,50150,RUB,https://btchange.ru,11173,trc erc
+2025-01-27 14:10:00,free-png.ru-126,5900,RUB,solana-sol-logo,0.2316837,SOL,https://cripthub.ru/,1789,trc erc bep
+2025-01-27 14:10:00,pngegg,5500,RUB,bitcoin-btc-logo,0.00048596,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-27 13:50:00,pngegg,5000,RUB,monero-xmr-logo,0.21137118,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-27 11:30:16.393750,Tether(USDT)TRC20,1528.46,USDT,Желтыйбанк(cashin),150000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 14:26:00,USDT BEP20,0,?,Т-Банк (Тинькофф),18476,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 14:26:00,USDT TRC20,0,?,Т-Банк (Тинькофф),11362,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 14:21:00,USDT BEP20,0,?,Т-Банк (Тинькофф),11278,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 14:22:00,Т-Банк (Тинькофф),0,?,USDT TRC20,45,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 13:22:00,TRON-Icon-icon,300,USDT,Tinkoff-RUB,30048,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-27 14:13:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,490.3013,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-27 13:40:00,20-SBP,105000,RUB,Tether,1023.1924,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-27 13:53:00,Tether,5000,USDT,Alipay,36023,CNY,https://nadex.io/,19731,trc erc bep
