@@ -19107,3 +19107,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 03:00:00,Tinkoff,100000,RUB,53-Jusan-Bank,478030,KZT,https://buhtaobmena.me,11221,trc bep
 2025-01-28 01:00:19.200658,Ethereum(ETH),0.32,ETH,Желтыйбанк(cashin),100400,cashin,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-28 03:56:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.017286,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 03:18:00,Sberbank,250000,RUB,Tether,2451.1054,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-28 03:58:00,Tether,289,USDT,05-RNKB,28224.2991283,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-28 03:46:00,Bank-transfer,21000,RUB,68-BinanceCoin,0.2920297,BNB,https://buhtaobmena.me,11221,trc bep
+2025-01-28 03:37:00,1mir,5000,RUB,726-7265090-trx-tron-hd-png-download-PhotoRoom-1,184.06684032,TRX,https://cripthub.ru/,1789,trc erc bep
+2025-01-28 01:10:21.199734,Tether(USDT)BEP20,600,USDT,Зеленыйбанк(RUB),59260,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 03:59:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.017286,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 04:06:00,Bitcoin,0,?,Т-Банк (Тинькофф),10526,RUB,https://avanchange.com/,1808,trc erc bep ton
