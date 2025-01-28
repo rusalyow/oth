@@ -19045,3 +19045,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 00:51:00,free-png.ru-126,9700,RUB,bitcoin-btc-logo,0.00085038,BTC,https://cripthub.ru/,1789,trc erc bep
 2025-01-28 01:02:00,Monero,0,?,Сбербанк,306848,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-28 01:16:00,Сбербанк,0,?,Solana,0.195842,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 00:57:00,Sberbank,102243,RUB,Tether,1000.0235,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-27 22:39:00,Tether,1261,USDT,Sberbank,125526.3711,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 00:49:00,Bitcoin,0.00270761,BTC,Sberbank,26820.2402341,RUB,https://buhtaobmena.me,11221,trc bep
