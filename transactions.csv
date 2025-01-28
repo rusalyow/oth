@@ -20752,3 +20752,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 19:30:16.078452,Tether(USDT)TRC20,508,USDT,Зеленыйбанк(RUB),50056,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-28 22:20:00,Ethereum,0,?,Сбербанк,12108,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-28 22:16:00,Solana,0,?,Т-Банк (Тинькофф),43579,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 19:40:18.236082,СБП(RUB),150000,RUB,Tether(USDT)TRC20,1447.02,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 22:32:00,Сбербанк,0,?,Bitcoin,0.001222,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 22:35:00,USDT ERC20,0,?,USDT BEP20,2985,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 22:35:00,Ethereum,0,?,Сбербанк,12108,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 22:27:00,Solana,0,?,Т-Банк (Тинькофф),43579,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 22:07:00,photo-2024-12-15-15-18-16,55000,RUB,Tether,531.666,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-28 22:05:00,Tether,830,USDT,photo-2024-12-15-15-18-16,82358.659,RUB,https://nadex.io/,19731,trc erc bep
