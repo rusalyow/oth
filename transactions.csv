@@ -20796,3 +20796,5 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 22:53:00,free-png.ru-126,11000,RUB,monero-xmr-logo,0.46693484,XMR,https://cripthub.ru/,1789,trc erc bep
 2025-01-28 20:30:18.454458,Зеленыйбанк(RUB),57000,RUB,BTC,0.005,BTC,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-28 23:27:00,Сбербанк,0,?,Solana,10,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 20:40:18.691058,Tether(USDT)TON,130,USDT,Желтыйбанк(RUB),12799,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 20:40:18.774280,СБП(RUB),149000,RUB,Tether(USDT)TRC20,1438.8,USDT,https://alfabit.org/ru/exchange,1682,trc erc
