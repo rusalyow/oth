@@ -19350,3 +19350,16 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 07:57:00,TRON,0,?,Сбербанк,15314,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-28 07:19:00,Tether,800,USDT,photo-2024-12-15-15-18-16,80655.52,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-28 07:23:00,Tether,1388.634,USDT,Sberbank,139999.9969,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-28 07:21:00,Tether,1300,USDT,0f270928276bc4f8db6ab54377dd7647,124332,RUB,https://green-obmenka.ru,11020,trc
+2025-01-28 07:52:00,Sberbank,55000,RUB,Tether,540.3871,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-28 07:54:00,Alfabank,60000,RUB,Tether,589.4176,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-28 07:23:00,Tether,892.5,USDT,photo-2024-12-15-15-18-16,89960.495,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 07:37:00,Bitcoin,0.00295098,BTC,Sberbank,29582.6089494,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-28 05:34:00,Monero,1.09885146,XMR,Tinkoff,23182.143329,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-28 07:51:00,Tether,208,USDT,13-Gazprombank,20379.06416,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-28 05:10:17.880393,Tether(USDT)ARBITRUM,1874.96,USDT,Желтыйбанк(cashin),183700,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 05:10:17.939179,Tether(USDT)TRC20,900,USDT,Желтыйбанк(RUB),89180,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 08:05:00,USDT TON,0,?,Т-Банк (Тинькофф),14686,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 08:08:00,TRON,0,?,Сбербанк,24232,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 08:04:00,Ethereum,0,?,Альфа-банк,13766,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 08:00:00,TRON,0,?,Т-Банк (Тинькофф),14994,RUB,https://avanchange.com/,1808,trc erc bep ton
