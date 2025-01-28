@@ -19052,3 +19052,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 01:39:00,Waves,0,?,Сбербанк,25113,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-28 01:40:00,Сбербанк,0,?,Solana,0.195842,SOL,https://avanchange.com/,1808,trc erc bep ton
 2025-01-28 01:52:00,Monero,0,?,Сбербанк,310629,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 22:47:00,Tether,780.93,USDT,Sberbank,77351.6632,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-27 22:40:00,Tether,1300,USDT,Sberbank,129283.83,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 01:45:00,1mir,6000,RUB,solana-sol-logo,0.23266975,SOL,https://cripthub.ru/,1789,trc erc bep
+2025-01-27 23:10:17.784927,Tether(USDT)TRC20,1020.25,USDT,Желтыйбанк(cashin),100000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 23:10:17.838334,Solana(SOL),2.2,SOL,Желтыйбанк(RUB),50750,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-27 23:10:17.891050,BTC,0.008,BTC,Зеленыйбанк(RUB),79500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 02:01:00,USDT TRC20,0,?,Т-Банк (Тинькофф),28753,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 01:58:00,Waves,0,?,Сбербанк,25113,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 02:09:00,Monero,0,?,Сбербанк,306848,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 22:57:00,Ether,0.47,ETH,Sberbank,148046.8088,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-28 00:45:00,Sberbank,292000,RUB,Tether,2855.9664,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-27 22:46:00,Tether,1636,USDT,Sberbank,162708.38,RUB,https://nadex.io/,19731,trc erc bep
