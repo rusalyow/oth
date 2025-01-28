@@ -19653,3 +19653,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-28 09:49:00,Bitcoin,0.004,BTC,89be191b4152ac284879e19a53c55e44,40418.7,RUB,https://niceobmen.com,10334,trc erc bep
 2025-01-28 10:53:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,396.3748,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-28 08:59:00,Bitcoin,0.0072,BTC,photo-2024-12-15-15-18-16,74082.5659,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-28 08:12:00,Tether,730,USDT,photo-2024-12-15-15-18-16,73816.432,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 08:22:00,Tether,1898.4217,USDT,Sberbank,191960.9985,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 08:18:00,Tether,950,USDT,Sberbank,96102.7173,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-28 10:46:00,Tether,625,USDT,51e6f562-46d7-4e67-9da0-8fa8f9146c15,62181.25,RUB,https://btchange.ru,11173,trc erc
+2025-01-28 10:36:00,free-png.ru-126,6100,RUB,monero-xmr-logo,0.24745932,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-28 08:20:17.682271,Tether(USDT)BEP20,763.29,USDT,Желтыйбанк(RUB),75530,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 08:20:17.762319,Tether(USDT)TRC20,1633.52,USDT,Красныйбанк(cashin),160000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 08:20:17.823973,Tether(USDT)TRC20,507,USDT,Зеленыйбанк(RUB),50170,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 11:14:00,СБП,0,?,Bitcoin,0.000983,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 11:16:00,Solana,0,?,Сбербанк,42026,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 11:16:00,Dogecoin,0,?,Сбербанк,50388,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 11:08:00,USDT ERC20,0,?,СБП,68398,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 11:07:00,Т-Банк (Тинькофф),0,?,USDT TRC20,73,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-28 10:02:00,Litecoin-Logo-scaled,2.8,LTC,89be191b4152ac284879e19a53c55e44,31676.46,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-28 08:13:00,Bitcoin,0.080293,BTC,Cash,815000,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-28 10:44:00,Tether,10905.7861,USDT,Bank-transfer,10800,USD,https://bobr.exchange/,0,trc erc bep
+2025-01-28 11:05:00,Tether,100,USDT,Monero,0.44518563,XMR,https://bobr.exchange/,0,trc erc bep
