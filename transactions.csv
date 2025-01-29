@@ -21870,3 +21870,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 13:33:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,496.7735,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-29 13:23:00,Alfabank,50000,RUB,Bitcoin,0.004603,BTC,https://nadex.io/,19731,trc erc bep
 2025-01-29 12:29:00,Tether,700,USDT,VTB,69676.67,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 13:19:00,Bitcoin,0.03522705,BTC,photo-2024-12-15-15-18-16,359919.8309,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 13:36:00,Alfabank,44999.9976,RUB,Tether,446.962,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-29 13:38:00,Tether,520,USDT,51e6f562-46d7-4e67-9da0-8fa8f9146c15,51480,RUB,https://btchange.ru,11173,trc erc
+2025-01-29 13:30:00,pngegg,7900,RUB,litecoin-ltc-logo,0.63695953,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-29 11:10:19.460936,EtherClassic(ETC),11.2,ETC,Желтыйбанк(RUB),27836,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 11:10:19.521752,Tether(USDT)BEP20,577,USDT,СБП(RUB),57093,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 11:10:19.701181,Tether(USDT)BEP20,55,USDT,Желтыйбанк(RUB),5437,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 14:05:00,USDT TRC20,0,?,СБП,25000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 14:03:00,USDT ERC20,0,?,Т-Банк (Тинькофф),10259,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 14:05:00,Dogecoin,0,?,Сбербанк,16132,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 14:02:00,Альфа-банк,0,?,USDT TRC20,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 13:57:00,Т-Банк (Тинькофф),0,?,Ethereum,0.10241,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 13:31:00,TRON-Icon-icon,205,USDT,Promsvyazbank-RUB,18292.15,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-29 11:35:00,Tether,1000,USDT,Alfabank,99806.5,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 11:35:00,Bitcoin,0.007562,BTC,Sberbank,77016.0496,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 11:34:00,Tether,700,USDT,photo-2024-12-15-15-18-16,69814.71,RUB,https://nadex.io/,19731,trc erc bep
