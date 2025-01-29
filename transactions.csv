@@ -22672,3 +22672,14 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 18:40:18.393809,Зеленыйбанк(RUB),5000,RUB,Toncoin(TON),9.577,TON,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-29 21:38:00,Litecoin,0,?,Т-Банк (Тинькофф),27424,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-29 21:38:00,Litecoin,0,?,Т-Банк (Тинькофф),102414,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 20:41:00,Tether,1011,USDT,photo-2024-12-15-15-18-16,100599.555,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 21:37:00,Sberbank,41000,RUB,Tether,404.4904,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-29 20:24:00,Tether,1100,USDT,Sberbank,109837.86,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 21:00:00,free-png.ru-126,10100,RUB,monero-xmr-logo,0.42871365,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-29 18:50:22.565525,Tether(USDT)TON,83,USDT,Зеленыйбанк(RUB),8109,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 18:50:22.636121,Cosmos(ATOM),3.42,ATOM,Желтыйбанк(RUB),2004,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 21:43:00,Райффайзен,0,?,Bitcoin,0.002105,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 21:44:00,Ethereum,0,?,USDT TRC20,753,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 21:46:00,Litecoin,0,?,Т-Банк (Тинькофф),27424,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 21:39:00,Litecoin,0,?,Т-Банк (Тинькофф),102414,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 21:10:00,Tinkoff,30000,RUB,BNB,0.42,BNB,https://niceobmen.com,10334,trc erc bep
