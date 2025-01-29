@@ -21808,3 +21808,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 13:16:00,Sberbank,50000,RUB,Ether,0.159623,ETH,https://nadex.io/,19731,trc erc bep
 2025-01-29 13:00:00,Sberbank,150000,RUB,Tether,1489.9399,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-29 09:15:00,Tether,1000,USDT,Sberbank,100084.3,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 12:46:00,20-SBP,100000,RUB,Tether,992.7982,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-29 12:46:00,photo-2024-12-15-15-18-16,150000,RUB,Tether,1489.8393,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-29 12:56:00,Tether,610,USDT,Alfabank,60776.74,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 13:07:00,Litecoin,2.846,LTC,Tinkoff,30862.4868492,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-29 13:28:00,Tinkoff,61357.3858495,RUB,Kaspi-bank,308710.2378643,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-29 10:40:20.669802,USDCoin(USDC)SOL,1836,USDC,Solana(SOL),8.03,SOL,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 10:40:20.734086,Tether(USDT)TRC20,532,USDT,Зеленыйбанк(RUB),52623,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 10:40:20.806545,Tether(USDT)TRC20,49,USDT,Желтыйбанк(RUB),4846,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 10:40:20.875094,USDCoin(USDC)SOL,506.91,USDC,Красныйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 13:33:00,USDT TRC20,0,?,Сбербанк,10260,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 13:31:00,TRON,0,?,Сбербанк,12793,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 13:26:00,Litecoin,0,?,СБП,27460,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 13:20:00,Tether,477,USDT,Sberbank,46865.25,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-29 12:47:00,photo-2024-12-15-15-18-16,500000,RUB,Tether,4966.1458,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-29 11:53:00,Bitcoin,0.006,BTC,photo-2024-12-15-15-18-16,61236.6172,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 09:19:00,Tether,1034,USDT,Sberbank,103474.448,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 09:43:00,Tether,3154.532,USDT,Tinkoff,300000.0941,RUB,https://bobr.exchange/,0,trc erc bep
