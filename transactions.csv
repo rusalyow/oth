@@ -20852,3 +20852,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 00:47:00,Tether,1200,USDT,photo-2024-12-15-15-18-16,120006.72,RUB,https://finex24.io,10943,trc,erc,bep
 2025-01-29 01:54:00,Dogecoin,0,?,Т-Банк (Тинькофф),16209,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-29 01:56:00,Сбербанк,0,?,Binance Coin (BEP20),0.137741,BNB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 01:51:00,photo-2024-12-15-15-18-16,55000,RUB,Tether,535.0345,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-29 01:30:00,free-png.ru-126,6000,RUB,bitcoin-btc-logo,0.00051567,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-28 23:10:20.497387,BTC,0,BTC,Желтыйбанк(RUB),3721,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-28 23:10:20.556461,Tether(USDT)BEP20,607.8,USDT,СБП(RUB),60000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
