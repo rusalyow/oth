@@ -21236,3 +21236,21 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 06:09:00,Monero,53.49,XMR,Sberbank,1120908.7054,RUB,https://bobr.exchange/,0,trc erc bep
 2025-01-28 15:34:00,Tether,14995.4559,USDT,Bank-transfer,14850,USD,https://bobr.exchange/,0,trc erc bep
 2025-01-28 15:24:00,Tether,15146.9252,USDT,Bank-transfer,15000,USD,https://bobr.exchange/,0,trc erc bep
+2025-01-29 04:02:00,Cash-RUB,500000,RUB,usdttrc20,4926.4239,USD,https://keine-exchange.com,997,trc erc bep
+2025-01-29 07:42:00,Litecoin,4,LTC,Alfabank,43991.3164624,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-29 07:33:00,Bitcoin,0.00110004,BTC,Promsvzbank,11011.4583339,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-29 05:20:31.427490,Tether(USDT)TRC20,1364,USDT,Красныйбанк(RUB),134844,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.497160,Litecoin(LTC),1,LTC,Желтыйбанк(RUB),11277,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.560567,Tether(USDT)TRC20,202.27,USDT,Желтыйбанк(RUB),20000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.630955,Litecoin(LTC),1.088,LTC,Желтыйбанк(RUB),12302,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.692869,Tether(USDT)TRC20,1015,USDT,Красныйбанк(RUB),100352,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.755814,Tether(USDT)BEP20,505.72,USDT,СБП(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 05:20:31.861755,Tether(USDT)TRC20,95,USDT,Желтыйбанк(RUB),9392,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 08:15:00,Т-Банк (Тинькофф),0,?,USDT TON,1360,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 08:15:00,USDT ERC20,0,?,Monero,8.990559,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 08:13:00,Dogecoin,0,?,Т-Банк (Тинькофф),32481,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 08:09:00,Т-Банк (Тинькофф),0,?,USDT TRC20,275,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 08:15:00,Альфа-банк,0,?,USDT Solana,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 06:44:00,Tether,1587.6895,USDT,photo-2024-12-15-15-18-16,159030.6012,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-29 07:52:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,395.9945,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-29 07:51:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,989.9814,USDT,https://nadex.io/,19731,trc erc bep
