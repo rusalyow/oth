@@ -23441,3 +23441,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 07:53:00,Tether,1400,USDT,Sberbank,139447,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-30 07:06:00,Tether,8350.968,USDT,photo-2024-12-15-15-18-16,833651.2474,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-30 08:41:00,Tether,61,USDT,Visa-Master,201.9161,BYN,https://bobr.exchange/,0,trc erc bep
+2025-01-30 07:26:00,Tether,1297.7706,USDT,photo-2024-12-15-15-18-16,129643.6492,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 07:44:00,Tether,250,USDT,Alipay,1808.3,CNY,https://finex24.io,10943,trc,erc,bep
+2025-01-30 09:22:00,Alfabank,43227.786,RUB,Tether,428.0004,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 09:26:00,logo-sbermarket-square-be8e750b,7400,RUB,bitcoin-btc-logo,0.00063438,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 06:50:20.265047,Dogecoin(DOGE),180,DOGE,Желтыйбанк(RUB),5875,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 06:50:20.338314,Зеленыйбанк(RUB),5000,RUB,Solana(SOL),0.193,SOL,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 06:50:20.405553,Tether(USDT)TRC20,1157,USDT,Красныйбанк(RUB),112749,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 06:50:20.484493,Зеленыйбанк(RUB),9600,RUB,BTC,0.001,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 06:50:20.551266,Tether(USDT)TRC20,985,USDT,Красныйбанк(RUB),96064,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 09:42:00,USDT TRC20,0,?,СБП,10239,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 09:42:00,Т-Банк (Тинькофф),0,?,USDT TRC20,61,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 09:35:00,USDT TRC20,0,?,СБП,10239,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 09:42:00,USDT TRC20,0,?,Т-Банк (Тинькофф),92342,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 09:35:00,Ethereum,0,?,USDT TRC20,5000,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 09:16:00,TRON-Icon-icon,2021,USDT,Cash,2000.79,USD,https://yaobmen.cash,10913,trc erc bep
