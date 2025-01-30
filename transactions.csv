@@ -22767,3 +22767,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 23:18:00,Sberbank,200000,RUB,Tether,1959.6143,USDT,https://finex24.io,10943,trc,erc,bep
 2025-01-29 21:20:21.710419,Зеленыйбанк(RUB),7000,RUB,BTC,0.001,BTC,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-29 22:48:00,Bitcoin,0.003,BTC,Tinkoff,30429.56,RUB,https://niceobmen.com,10334,trc erc bep
+2025-01-29 22:05:00,Tether,700,USDT,Sberbank,69641.46,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 21:30:23.502255,Solana(SOL),0.286,SOL,Зеленыйбанк(RUB),6372,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-29 21:30:23.564981,BTC,0.005,BTC,Желтыйбанк(RUB),51146,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:22:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.001963,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 00:24:00,Monero,0,?,Альфа-банк,36060,RUB,https://avanchange.com/,1808,trc erc bep ton
