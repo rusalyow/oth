@@ -23682,3 +23682,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 11:07:00,Visa-Master-Mir,42300,RUB,Tether,418.8629,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-30 10:27:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,100029.7,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-30 10:24:00,Tether,1500,USDT,photo-2024-12-15-15-18-16,150037.05,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-30 11:36:00,photo-2024-12-15-15-18-16,40000,RUB,Tether,396.0918,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 08:49:00,Tether,833,USDT,photo-2024-12-15-15-18-16,83114.1577,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 11:05:00,Sberbank,40000,RUB,Tether,395.7164,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 11:38:00,Tether,200,USDT,Tinkoff,19497.41902,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 08:50:21.848858,Litecoin(LTC),0.557,LTC,Зеленыйбанк(RUB),7000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 08:50:21.915989,Tether(USDT)BEP20,87,USDT,Зеленыйбанк(RUB),8500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 08:50:21.982629,Litecoin(LTC),0.85,LTC,Банковскаякарта(RUB),10693,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 08:50:22.049857,Tether(USDT)BEP20,300,USDT,Зеленыйбанк(RUB),29313,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 08:50:22.117148,Желтыйбанк(RUB),287000,RUB,BTC,0.026,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 08:50:22.252331,Зеленыйбанк(RUB),6200,RUB,BTC,0.001,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 11:48:00,Т-Банк (Тинькофф),0,?,Monero,0.468927,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 11:46:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.002242,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 11:46:00,USDT TON,0,?,Т-Банк (Тинькофф),37500,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 11:41:00,USDT BEP20,0,?,Сбербанк,14200,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 11:41:00,Hamster Kombat,0,?,VISA/MasterCard,19860,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 11:23:00,TRON-Icon-icon,1001,USDT,Sberbank-RUB-,98388.29,RUB,https://yaobmen.cash,10913,trc erc bep
