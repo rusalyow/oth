@@ -24751,3 +24751,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 22:27:00,USDT TRC20,0,?,Сбербанк,100000,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-30 22:24:00,VISA/MasterCard,0,?,Bitcoin,0.001007,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-30 22:19:00,Т-Банк (Тинькофф),0,?,TRON,230,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 19:40:21.573105,Ripple(XRP),100,XRP,Зеленыйбанк(RUB),30292,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 19:40:21.910839,Tether(USDT)ARBITRUM,349,USDT,Зеленыйбанк(RUB),33551,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 20:56:00,Tether,1006,USDT,Sberbank,97984.4,RUB,https://niceobmen.com,10334,trc erc bep
