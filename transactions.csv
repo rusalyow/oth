@@ -23566,3 +23566,21 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 10:14:00,Sberbank,250000,RUB,Tether,2471.9899,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-30 10:09:00,Tether,900,USDT,photo-2024-12-15-15-18-16,89989.11,RUB,https://nadex.io/,19731,trc erc bep
 2025-01-30 10:06:00,Tether,3500,USDT,photo-2024-12-15-15-18-16,350017.5,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-30 09:05:00,Tether,1507,USDT,photo-2024-12-15-15-18-16,150046.2634,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 10:19:00,Alfabank,40000,RUB,Tether,396.0322,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 10:20:00,Sberbank,15000,RUB,freedom-finance-01,74251.5,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-30 10:08:00,Alfabank,99000,RUB,Visa-Master,488515.5,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-30 10:08:00,free-png.ru-126,5000,RUB,bitcoin-btc-logo,0.00041858,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 10:27:00,free-png.ru-126,7200,RUB,bitcoin-btc-logo,0.00061187,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 10:26:00,logo-sbermarket-square-be8e750b,5800,RUB,bitcoin-btc-logo,0.00048986,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 10:13:00,free-png.ru-126,7200,RUB,bitcoin-btc-logo,0.0006121,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 09:55:00,1mir,15000,RUB,bitcoin-btc-logo,0.00130543,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 07:50:24.011060,Tether(USDT)TRC20,2437,USDT,Красныйбанк(RUB),238218,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 07:50:24.076754,Tron(TRX),620.706,TRX,Зеленыйбанк(RUB),15000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 07:50:24.142184,Зеленыйбанк(RUB),5700,RUB,BTC,0.001,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 07:50:24.206686,Tether(USDT)TRC20,2738,USDT,Красныйбанк(RUB),267614,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 07:50:24.272203,Litecoin(LTC),0.783,LTC,Желтыйбанк(RUB),10000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 07:50:24.337516,Toncoin(TON),210,TON,Красныйбанк(cashin),100100,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 10:43:00,Сбербанк,0,?,Waves,30,WAVES,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 10:39:00,Solana,0,?,Т-Банк (Тинькофф),10459,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 10:20:00,20-SBP,240000,RUB,Tether,2376.5317,USDT,https://nadex.io/,19731,trc erc bep
