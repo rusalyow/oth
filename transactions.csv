@@ -22783,3 +22783,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-29 21:50:23.650931,Зеленыйбанк(RUB),149000,RUB,Solana(SOL),6.027,SOL,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-30 00:19:00,Sberbank,110212.92,RUB,Tether,1080.0042,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-29 20:50:00,Ether,0.254,ETH,Sberbank,79408.367,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-30 00:53:00,Альфа-банк,0,?,Bitcoin,0.000917,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 00:50:00,USDT TRC20,0,?,ЮMoney,28669,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 00:55:00,Bitcoin,0,?,Сбербанк,39153,RUB,https://avanchange.com/,1808,trc erc bep ton
