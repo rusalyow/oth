@@ -24606,3 +24606,13 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 18:38:00,Sberbank,57000,RUB,Tether,569.2617,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-30 19:57:00,Tether,3525,USDT,26-TRON,13882.04766375,TRX,https://bobr.exchange/,0,trc erc bep
 2025-01-30 19:51:00,Tether,95,USDT,Visa-Master,304.095,BYN,https://bobr.exchange/,0,trc erc bep
+2025-01-30 17:18:00,Litecoin,3.37,LTC,Sberbank,42951.8174,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 17:09:00,Tether,670,USDT,VTB,65741.338,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 19:48:00,photo-2024-12-15-15-18-16,110000,RUB,Tether,1098.63,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 19:43:00,Kaspi-bank,150000,KZT,Sberbank,25934.5098645,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 17:20:20.785102,Tether(USDT)ERC20,409,USDT,Желтыйбанк(RUB),40071,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 17:20:20.867669,Solana(SOL),2.5,SOL,Зеленыйбанк(RUB),58370,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 17:20:21.245649,BTC,0.007,BTC,Синийбанк(RUB),69981,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 19:34:00,Sberbank,58970,RUB,Tether,585.046,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-30 19:28:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,498.5716,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-30 19:33:00,photo-2024-12-15-15-18-16,100000,RUB,Bitcoin,0.009222,BTC,https://nadex.io/,19731,trc erc bep
