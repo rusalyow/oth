@@ -22873,3 +22873,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 00:30:19.655286,Litecoin(LTC),7.422,LTC,Синийбанк(RUB),88000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-30 00:30:19.718220,BTC,0.006,BTC,КартаМир(RUB),56308,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-30 03:19:00,Bitcoin,0,?,Т-Банк (Тинькофф),30300,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 03:03:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,99245,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 03:14:00,Tether,1813.1617,USDT,Sberbank,179999.6333,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-29 23:52:00,Tether,3100,USDT,Sberbank,304736.51,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 02:13:00,Bitcoin,0.02464881,BTC,Sberbank,250020.6020707,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 03:14:00,Tether,259,USDT,Sberbank,25373.712,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 02:46:00,logo-sbermarket-square-be8e750b,8800,RUB,monero-xmr-logo,0.35305891,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 03:19:00,logo-sbermarket-square-be8e750b,10000,RUB,bitcoin-btc-logo,0.00088581,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 03:08:00,free-png.ru-126,5300,RUB,bitcoin-btc-logo,0.00044289,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 02:51:00,free-png.ru-126,7200,RUB,bitcoin-btc-logo,0.00061227,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-30 00:40:19.141056,Dogecoin(DOGE),750,DOGE,Зеленыйбанк(RUB),24305,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.204538,Tether(USDT)ERC20,592,USDT,Желтыйбанк(RUB),58252,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.268609,Dogecoin(DOGE),2030,DOGE,Синийбанк(RUB),65779,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.331821,Tether(USDT)TRC20,405,USDT,Желтыйбанк(RUB),40010,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.400411,Tron(TRX),302.368,TRX,Желтыйбанк(RUB),7290,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.527460,Tether(USDT)TRC20,1888,USDT,Газпромбанк(RUB),185000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 00:40:19.590216,Tether(USDT)TRC20,1888.18,USDT,Красныйбанк(RUB),185000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
