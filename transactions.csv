@@ -22965,3 +22965,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 02:00:27.112603,BTC,0.005,BTC,Синийбанк(RUB),51000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-30 04:53:00,USDT TRC20,0,?,Т-Банк (Тинькофф),249927,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-30 04:53:00,USDT TRC20,0,?,Monero,4.60795,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 05:01:00,Sberbank,102199.0202,RUB,Tether,1007.002,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 04:15:00,Tether,700,USDT,Sberbank,69489,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-30 04:53:00,Tether,155,USDT,20-SBP,15093.1278365,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 04:41:00,Tether,664.3889,USDT,Tinkoff,64990.9982326,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 04:38:00,Visa-Master,372463,KZT,Tinkoff,70000,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-30 02:10:17.896193,Dogecoin(DOGE),600,DOGE,КартаМир(RUB),19294,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 02:10:18.322098,СБП(RUB),64390,RUB,BTC,0.006,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 02:10:18.399528,Зеленыйбанк(RUB),5300,RUB,Litecoin(LTC),0.39,LTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 05:01:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000915,BTC,https://avanchange.com/,1808,trc erc bep ton
