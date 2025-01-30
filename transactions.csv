@@ -24783,3 +24783,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-30 23:14:00,Сбербанк,0,?,Bitcoin,0.001423,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-30 23:17:00,Т-Банк (Тинькофф),0,?,Solana,0.194667,SOL,https://avanchange.com/,1808,trc erc bep ton
 2025-01-30 20:33:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,98914,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-30 20:32:29.055362,Tether(USDT)TRC20,640.42,USDT,Желтыйбанк(RUB),62552,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 20:32:29.125980,Ripple(XRP),17.5,XRP,Банковскаякарта(RUB),5332,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 20:32:29.196002,Litecoin(LTC),0.796,LTC,Синийбанк(RUB),10000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 23:28:00,USDT TON,0,?,Сбербанк,17016,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 23:19:00,USDT TRC20,0,?,Litecoin,14,LTC,https://avanchange.com/,1808,trc erc bep ton
