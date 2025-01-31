@@ -24904,3 +24904,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 02:24:00,VISA/MasterCard,0,?,USDT TON,86,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 02:21:00,Litecoin,0,?,Сбербанк,39000,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 02:22:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.001007,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 02:14:00,Sberbank,50000,RUB,Tether,499.6907,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-30 23:40:23.394149,Litecoin(LTC),25,LTC,Зеленыйбанк(RUB),307614,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-30 23:40:23.556455,СБП(RUB),50000,RUB,Toncoin(TON),100.551,TON,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 02:29:00,Сбербанк,0,?,USDT TRC20,116,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 02:39:00,Monero,0,?,Сбербанк,112342,RUB,https://avanchange.com/,1808,trc erc bep ton
