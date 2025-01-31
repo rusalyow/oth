@@ -25587,3 +25587,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 10:37:00,SOL-e1732539686580,1.33,SOL,89be191b4152ac284879e19a53c55e44,30357.5,RUB,https://niceobmen.com,10334,trc erc bep
 2025-01-31 10:52:00,Sberbank,95000,RUB,Tether,954.6309,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 10:41:00,Tether,2244.707,USDT,Visa-Master,79172.6117,TRY,https://bobr.exchange/,0,trc erc bep
+2025-01-31 10:06:00,Tether,4679,USDT,Alipay,33963.4573,CNY,https://finex24.io,10943,trc,erc,bep
+2025-01-31 11:05:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,1004.6687,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 11:04:00,Sberbank,49000,RUB,Tether,492.8888,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 11:14:00,Tether,319.94,USDT,829646962,31040,RUB,https://btchange.ru,11173,trc erc
+2025-01-31 11:12:00,Tinkoff,200000,RUB,31-Solana,8.20369487,SOL,https://buhtaobmena.me,11221,trc bep
+2025-01-31 10:59:00,Kaspi-bank,500000,KZT,Sberbank,90909.0958678,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 08:30:20.987352,Litecoin(LTC),3.9,LTC,Банковскаякарта(RUB),49831,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 08:30:21.084006,Tether(USDT)TRC20,1090,USDT,Желтыйбанк(cashin),107000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 08:30:21.178659,Tether(USDT)BEP20,98,USDT,Желтыйбанк(RUB),9547,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 08:30:21.306781,Litecoin(LTC),0.98,LTC,Желтыйбанк(RUB),12727,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 08:30:21.453461,Желтыйбанк(RUB),400000,RUB,BTC,0.037,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 08:30:21.525189,Tether(USDT)TRC20,52,USDT,Желтыйбанк(RUB),5061,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 11:23:00,Сбербанк,0,?,Monero,0.224175,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 11:17:00,USDT TRC20,0,?,Т-Банк (Тинькофф),21752,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 11:17:00,Сбербанк,0,?,Bitcoin,0.001007,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 10:36:00,Tether,1020.9321,USDT,Sberbank,100065.0263,RUB,https://nadex.io/,19731,trc erc bep
