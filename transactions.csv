@@ -26803,3 +26803,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 19:50:19.196836,Tether(USDT)TRC20,1259.81,USDT,Желтыйбанк(RUB),120000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-31 22:43:00,Monero,0,?,Альфа-банк,29976,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 20:54:00,Tether,2490,USDT,Sberbank,244992.594,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-31 22:37:00,Sberbank,40000,RUB,Tether,399.6267,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 21:51:00,Bitcoin,0.00331,BTC,Sberbank,32703.2366438,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 22:57:00,Т-Банк (Тинькофф),0,?,TRON,186,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 22:57:00,USDT TON,0,?,TRON,117,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 22:54:00,Monero,0,?,СБП,51650,RUB,https://avanchange.com/,1808,trc erc bep ton
