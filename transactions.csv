@@ -25641,3 +25641,16 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 11:11:00,Visa-Master-Mir,41200,RUB,Tether,414.6813,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 10:56:00,VTB,40000,RUB,Tether,401.9898,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 08:40:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,99319.9,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-31 11:33:00,Alfabank,70000,RUB,Tether,693.913,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 11:29:00,photo-2024-12-15-15-18-16,200000,RUB,Tether,2000.2,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 09:00:23.420482,EtherClassic(ETC),2.6,ETC,Желтыйбанк(RUB),6791,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:23.532796,Tron(TRX),614,TRX,КартаМир(RUB),15022,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:23.658537,USDCoin(USDC)BEP20,53,USDC,Желтыйбанк(RUB),5173,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:23.738788,USDCoin(USDC)BEP20,318,USDC,Желтыйбанк(RUB),31034,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:23.851261,EtherClassic(ETC),2.05,ETC,Желтыйбанк(RUB),5357,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:23.947176,Зеленыйбанк(RUB),5000,RUB,Tron(TRX),184.561,TRX,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:00:24.066566,BTC,0.027,BTC,Зеленыйбанк(RUB),269576,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 11:54:00,Сбербанк,0,?,Monero,0.214736,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 11:53:00,Т-Банк (Тинькофф),0,?,Monero,0.202581,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 11:56:00,Сбербанк,0,?,TRON,186,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 11:49:00,TRON-Icon-icon,395,USDT,Sberbank-RUB-,38465.1,RUB,https://yaobmen.cash,10913,trc erc bep
