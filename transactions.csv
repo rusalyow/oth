@@ -25844,3 +25844,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 13:14:00,Tether-Icon,720,USDT,Tinkoff-RUB,70092,RUB,https://yaobmen.cash,10913,trc erc bep
 2025-01-31 13:06:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,500.6639,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 12:56:00,Bitcoin,0.01006,BTC,Visa-Master,413187.9855,AMD,https://bobr.exchange/,0,trc erc bep
+2025-01-31 13:06:00,Cash,1000000,RUB,Tether,10009.6593,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 11:47:00,Tether,102047.2158,USDT,Cash,10160000,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 10:40:20.538998,Dogecoin(DOGE),564,DOGE,Желтыйбанк(RUB),18407,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 10:40:20.696399,Красныйбанк(RUB),195000,RUB,BTC,0.018,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 10:40:20.775673,Litecoin(LTC),1,LTC,Желтыйбанк(RUB),12733,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 10:40:20.854601,Tether(USDT)TRC20,3890,USDT,Желтыйбанк(RUB),379262,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 10:40:20.932751,Tether(USDT)TRC20,757,USDT,Желтыйбанк(RUB),73805,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 13:34:00,Личный счет (USDT),0,?,СБП,67583,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 13:37:00,Т-Банк (Тинькофф),0,?,Ethereum,0.168,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 13:37:00,Сбербанк,0,?,Bitcoin,0.00171,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 13:37:00,Альфа-банк,0,?,TRON,243,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 13:30:00,VISA/MasterCard,0,?,Ethereum,0.096132,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 13:16:00,TRON-Icon-icon,441,USDT,Tinkoff-RUB,42966.63,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-01-31 13:18:00,photo-2024-12-15-15-18-16,60000,RUB,Tether,604.3099,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 13:01:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,1007.1467,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 12:53:00,photo-2024-12-15-15-18-16,54930.15,RUB,Tether,550.0121,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 13:19:00,Tether,300,USDT,Visa-Master,975.75,BYN,https://bobr.exchange/,0,trc erc bep
