@@ -26695,3 +26695,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 20:30:00,Tether,500,USDT,Sberbank,48525,RUB,https://niceobmen.com,10334,trc erc bep
 2025-01-31 20:38:00,Tether,15598.6742,USDT,Alipay,112950,ALPCNY,https://niceobmen.com,10334,trc erc bep
 2025-01-31 19:02:00,Sberbank,199636.2,RUB,Tether,2000,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 20:49:00,photo-2024-12-15-15-18-16,155000,RUB,Tether,1549.907,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 18:50:00,Tether,1018.53,USDT,photo-2024-12-15-15-18-16,99999.9884,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 16:40:00,Litecoin,3.91,LTC,photo-2024-12-15-15-18-16,49124.5362,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 20:37:00,Monero,1.3,XMR,Tinkoff,29157.8492937,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 18:10:20.637634,Tether(USDT)BEP20,1149.84,USDT,Зеленыйбанк(RUB),110000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 18:10:20.710836,Tether(USDT)BEP20,522.18,USDT,Желтыйбанк(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 18:10:20.784462,Tether(USDT)BEP20,1550.36,USDT,Желтыйбанк(RUB),150000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 21:02:00,Альфа-банк,0,?,USDT TRC20,52,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 21:03:00,Т-Банк (Тинькофф),0,?,USDT TRC20,104,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 20:14:00,Alfabank,83840.8687,RUB,Tether,837.5,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 20:23:00,20-SBP,40002.48,RUB,Tether,400,USDT,https://nadex.io/,19731,trc erc bep
+2025-01-31 20:20:00,photo-2024-12-15-15-51-28,41648,RUB,Tether,422.0431,USDT,https://nadex.io/,19731,trc erc bep
