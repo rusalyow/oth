@@ -25382,3 +25382,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 09:09:00,photo-2024-12-15-15-18-16,60000,RUB,Tether,601.2843,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 08:52:00,Sberbank,50000,RUB,Tether,500.8103,USDT,https://nadex.io/,19731,trc erc bep
 2025-01-31 08:56:00,Tether,99,USDT,Visa-Master,311.3154,BYN,https://bobr.exchange/,0,trc erc bep
+2025-01-31 09:01:00,Bitcoin,0.002709,BTC,Sistema-byistryih-platezhey,24904,RUB,https://barry24.com,11204,trc erc bep
+2025-01-31 07:19:00,Tether,16989.9093,USDT,Cash,1695000,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 09:01:00,Tether,1010.8668,USDT,photo-2024-12-15-15-18-16,100000.0993,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 08:05:00,Tether,810,USDT,photo-2024-12-15-15-18-16,80338.068,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 09:18:00,Tinkoff,100000,RUB,31-Solana,4.14688351,SOL,https://buhtaobmena.me,11221,trc bep
+2025-01-31 08:14:00,Alfabank,700000,RUB,53-Jusan-Bank,3468220,KZT,https://buhtaobmena.me,11221,trc bep
+2025-01-31 08:30:00,df0995df78466626688b06e0e0bca7b5,19100,RUB,bitcoin-btc-logo,0.00169191,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-01-31 06:30:19.225632,Litecoin(LTC),0.481,LTC,КартаМир(RUB),6000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 06:30:19.316744,Tether(USDT)TRC20,924,USDT,Газпромбанк(RUB),89728,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 06:30:19.530615,Tether(USDT)TRC20,980,USDT,Красныйбанк(RUB),95196,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 06:30:19.604357,Tether(USDT)BEP20,103.03,USDT,Зеленыйбанк(RUB),10010,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 06:30:19.752018,Dogecoin(DOGE),356.67,DOGE,Зеленыйбанк(RUB),11240,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 09:29:00,Т-Банк (Тинькофф),0,?,Monero,0.219166,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 09:23:00,USDT TRC20,0,?,Сбербанк,14523,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 09:22:00,Dogecoin,0,?,Сбербанк,19146,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 08:30:00,Tether,4041.5179,USDT,Visa-Master,353326.4692,KGS,https://bobr.exchange/,0,trc erc bep
