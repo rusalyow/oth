@@ -25093,3 +25093,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 05:58:00,Т-Банк (Тинькофф),0,?,Litecoin,0.534033,LTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 06:01:00,USDT ERC20,0,?,СБП,48508,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 06:04:00,Т-Банк (Тинькофф),0,?,Ethereum,0.043235,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 05:37:00,Bitcoin,0,BTC,20-SBP,0,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 05:37:00,Tether,0,USDT,Sberbank,0,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 03:44:00,Ether,0.121149,ETH,Sberbank,37981.0787452,RUB,https://buhtaobmena.me,11221,trc bep
+2025-01-31 03:20:22.562103,BTC,0.005,BTC,Зеленыйбанк(RUB),52000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 03:20:22.651350,Solana(SOL),0.22,SOL,КартаМир(RUB),5074,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 03:20:22.727462,Toncoin(TON),16,TON,СБП(RUB),7507,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 03:20:22.804296,Tether(USDT)TRC20,2032.48,USDT,Желтыйбанк(cashin),200000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 03:20:22.910294,Ripple(XRP),340,XRP,Зеленыйбанк(RUB),102201,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 03:20:22.989040,Solana(SOL),0.5,SOL,Зеленыйбанк(RUB),11535,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 06:15:00,Solana,0,?,Сбербанк,10137,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 06:13:00,Ethereum Classic,0,?,Сбербанк,25392,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 06:08:00,Сбербанк,0,?,USDT TRC20,103,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 06:06:00,Ethereum Classic,0,?,Альфа-банк,12693,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-30 21:24:00,Tether,999.0897,USDT,photo-2024-12-15-15-18-16,99001.8965,RUB,https://nadex.io/,19731,trc erc bep
+2025-01-31 01:42:00,Tether,700,USDT,Sberbank,68710.95,RUB,https://nadex.io/,19731,trc erc bep
