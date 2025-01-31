@@ -26505,3 +26505,17 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 19:06:00,Т-Банк (Тинькофф),0,?,Ethereum,0.017129,ETH,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 19:00:00,Альфа-банк,0,?,Bitcoin,0.003,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-01-31 19:07:00,USDCoin (BEP20),0,?,Сбербанк,19243,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 19:03:00,photo-2024-12-15-15-18-16,120000,RUB,Tether,1209.9775,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 18:54:00,20-SBP,70000,RUB,Tether,705.8202,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 16:29:00,Tether,3999,USDT,photo-2024-12-15-15-18-16,392140.7403,RUB,https://finex24.io,10943,trc,erc,bep
+2025-01-31 16:20:21.251744,Tether(USDT)BEP20,1103.4,USDT,Желтыйбанк(RUB),107200,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.325715,Tether(USDT)BEP20,210,USDT,Желтыйбанк(RUB),20412,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.398788,Litecoin(LTC),2.3,LTC,Зеленыйбанк(RUB),28135,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.471631,Tether(USDT)BEP20,2624.7,USDT,Желтыйбанк(RUB),255000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.544820,Tether(USDT)BEP20,1191.16,USDT,Зеленыйбанк(RUB),115000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.617758,Tether(USDT)BEP20,195,USDT,Зеленыйбанк(RUB),18826,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.691344,Tether(USDT)TRC20,500,USDT,Зеленыйбанк(RUB),48180,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 16:20:21.764158,Желтыйбанк(RUB),256000,RUB,BTC,0.024,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-01-31 19:14:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.003065,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 19:15:00,Сбербанк,0,?,Ethereum,0.014274,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-01-31 17:23:00,Tether,1190,USDT,Alfabank,116833.724,RUB,https://bobr.exchange/,0,trc erc bep
