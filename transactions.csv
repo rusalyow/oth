@@ -27901,3 +27901,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 14:04:00,СБП,0,?,TRON,183,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 14:04:00,USDT ERC20,0,?,СБП,50000,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 14:01:00,USDT TON,0,?,СБП,10113,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:17:00,Cash,650000,RUB,Tether,6485.1749,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 13:20:00,20-SBP,40000,RUB,Tether,400.6515,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 12:11:00,Tether,750,USDT,Sberbank,73622.325,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 14:10:00,free-png.ru-126,5000,RUB,bitcoin-btc-logo,0.00043691,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 13:34:00,logo-sbermarket-square-be8e750b,6000,RUB,bitcoin-btc-logo,0.00051848,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 13:57:00,tether-usdt-logo,20,USDT,bitcoin-btc-logo,0.00018885,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 13:50:00,logo-sbermarket-square-be8e750b,9800,RUB,bitcoin-btc-logo,0.0008617,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 13:55:00,logo-sbermarket-square-be8e750b,10000,RUB,bitcoin-btc-logo,0.00090738,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 11:20:19.147468,Tether(USDT)TRC20,650.69,USDT,Зеленыйбанк(RUB),62630,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:20:19.230041,Tether(USDT)BEP20,51.15,USDT,Желтыйбанк(RUB),5000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:20:19.311175,Tether(USDT)TRC20,200,USDT,Желтыйбанк(RUB),19550,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:20:19.392101,Tether(USDT)TRC20,1750,USDT,Зеленыйбанк(RUB),168289,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:13:00,USDT TON,0,?,Т-Банк (Тинькофф),45000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 14:13:00,Сбербанк,0,?,Ethereum,0.014549,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:54:00,TRON-Icon-icon,942,USDT,Tinkoff-RUB,91421.1,RUB,https://yaobmen.cash,10913,trc erc bep
