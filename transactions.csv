@@ -27867,3 +27867,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 13:45:00,Т-Банк (Тинькофф),0,?,USDT TRC20,111,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 13:44:00,USDT TRC20,0,?,Сбербанк,77068,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 13:31:00,Sberbank,40000,RUB,Tether,398.7312,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-01 13:23:00,20-SBP,150000,RUB,Tether,1503.5408,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 11:10:00,Tether,1251.5,USDT,photo-2024-12-15-15-18-16,121415.2737,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 12:20:00,Tether,1000,USDT,Sberbank,98108.5,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 11:00:21.753975,BTC,0.004,BTC,Банковскаякарта(RUB),41000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:21.908370,Tether(USDT)TRC20,5.06,USDT,Invoice(RUB)URL,500.439,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:21.980159,Litecoin(LTC),6.74,LTC,Банковскаякарта(RUB),79608,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:22.057705,Litecoin(LTC),0.828,LTC,Желтыйбанк(RUB),9905,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:22.136024,BTC,0.006,BTC,Зеленыйбанк(RUB),59000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:22.291506,Tether(USDT)BEP20,512.32,USDT,Желтыйбанк(RUB),50050,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:00:22.371287,USDCoin(USDC)BEP20,498,USDC,Желтыйбанк(RUB),48569,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 13:59:00,USDT TRC20,0,?,СБП,30001,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:59:00,Сбербанк,0,?,Monero,0.324096,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:56:00,USDT TRC20,0,?,Райффайзен,25001,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:55:00,Сбербанк,0,?,USDT TRC20,175,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 13:57:00,USDT TRC20,0,?,TRON,469,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 12:33:00,Tether,1627,USDT,Sberbank,159961.759,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 08:57:00,Tether,3450,USDT,photo-2024-12-15-15-18-16,336564.75,RUB,https://nadex.io/,19731,trc erc bep
