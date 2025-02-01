@@ -27383,3 +27383,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 09:25:00,Ethereum,0,?,СБП,15000,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 09:24:00,TRON,0,?,VISA/MasterCard,11214,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 09:23:00,USDT TRC20,0,?,Т-Банк (Тинькофф),50000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:20:00,Sberbank,45000,RUB,Tether,447.5154,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 09:03:00,Tether,699.96,USDT,829646962,67420,RUB,https://btchange.ru,11173,trc erc
+2025-02-01 09:32:00,Tether,210,USDT,Alfabank,20234.6025,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 09:28:00,Tinkoff,36000,RUB,Tether,346.2321,USDT,https://buhtaobmena.me,11221,trc bep
+2025-02-01 09:22:00,Tinkoff,150000,RUB,Kaspi-bank,754020.15,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-01 08:59:00,pngegg,22500,RUB,bitcoin-btc-logo,0.00204513,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 08:51:00,free-png.ru-126,8700,RUB,bitcoin-btc-logo,0.00076568,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 06:40:20.797849,Tether(USDT)TRC20,1997,USDT,Желтыйбанк(RUB),193705,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 06:40:20.876550,Tether(USDT)TRC20,1024,USDT,Желтыйбанк(cashin),100100,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 06:40:20.953025,Желтыйбанк(RUB),500000,RUB,BTC,0.048,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 09:36:00,USDT BEP20,0,?,ЮMoney,10134,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:34:00,Сбербанк,0,?,TRON,186,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:36:00,USDT BEP20,0,?,Сбербанк,10151,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:34:00,Сбербанк,0,?,Solana,0.990835,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:33:00,Ethereum,0,?,СБП,14450,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 06:55:00,Tether,1659.4,USDT,Sberbank,163992.5282,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 09:16:00,Alfabank,40000,RUB,Tether,396.8825,USDT,https://nadex.io/,19731,trc erc bep
