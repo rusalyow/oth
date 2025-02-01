@@ -27070,3 +27070,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 05:41:00,Т-Банк (Тинькофф),0,?,Litecoin,0.35868,LTC,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 05:47:00,Bitcoin,0,?,СБП,9895,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 05:44:00,USDT ERC20,0,?,VISA/MasterCard,11584,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 05:35:00,Sberbank,50000,RUB,Tether,482.0829,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 05:27:00,Tether,561,USDT,Tinkoff,53914.2318,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 05:08:00,Bitcoin,0.0021,BTC,Tinkoff,20695.5855872,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 03:00:19.599762,BTC,0.001,BTC,Желтыйбанк(RUB),10000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 03:00:19.676553,Tether(USDT)BEP20,103.38,USDT,Желтыйбанк(RUB),10000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 03:00:19.751869,Tether(USDT)TRC20,2322,USDT,Красныйбанк(RUB),221595,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:57:00,Т-Банк (Тинькофф),0,?,USDT TRC20,105,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 05:57:00,Ethereum,0,?,Альфа-банк,23905,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 05:56:00,Dogecoin,0,?,Альфа-банк,33524,RUB,https://avanchange.com/,1808,trc erc bep ton
