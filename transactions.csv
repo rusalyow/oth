@@ -27440,3 +27440,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 09:52:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.002745,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 09:33:00,photo-2024-12-15-15-18-16,59000,RUB,Tether,589.3458,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 09:36:00,photo-2024-12-15-15-18-16,90000,RUB,Tether,906.7316,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-01 09:54:00,VTB,45000,RUB,Tether,450.2733,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 09:48:00,photo-2024-12-15-15-18-16,400000,RUB,Tether,4030.6653,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 09:46:00,Sberbank,260000,RUB,Tether,2600.273,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 10:00:00,Tether,1000,USDT,Sberbank,96461.4,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 09:56:00,Tinkoff,80000,RUB,Kaspi-bank,403432.08,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-01 09:44:00,Tether,147,USDT,Promsvzbank,14157.129,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 09:39:00,free-png.ru-126,19800,RUB,monero-xmr-logo,0.79131647,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 07:10:24.111809,Tether(USDT)TRC20,1022.74,USDT,Желтыйбанк(cashin),100000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:10:24.188135,Tether(USDT)TRC20,100,USDT,Желтыйбанк(RUB),9680,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:10:24.264162,Желтыйбанк(RUB),93000,RUB,BTC,0.009,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:10:24.339922,Желтыйбанк(RUB),69000,RUB,BTC,0.007,BTC,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:10:24.416399,Tether(USDT)TRC20,555,USDT,Желтыйбанк(RUB),53716,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:10:24.733375,Litecoin(LTC),0.802,LTC,Желтыйбанк(RUB),9576,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 10:07:00,Сбербанк,0,?,Monero,0.221343,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 10:01:00,Т-Банк (Тинькофф),0,?,USDT TRC20,47,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 10:04:00,Dogecoin,0,?,Сбербанк,10258,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 09:36:00,Tether,209,USDT,Visa-Master,681.0474,BYN,https://bobr.exchange/,0,trc erc bep
