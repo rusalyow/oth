@@ -27939,3 +27939,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 14:15:00,photo-2024-12-15-15-18-16,107000,RUB,Tether,1076.7415,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 13:58:00,photo-2024-12-15-15-18-16,149066.55,RUB,Tether,1500.0121,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 13:51:00,photo-2024-12-15-15-18-16,99378.5,RUB,Tether,1000.003,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-01 13:35:00,Sberbank,50000,RUB,Tether,503.1001,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 12:17:00,Tether,707.0952,USDT,Sberbank,69410.7275,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 13:41:00,Sberbank,23722,RUB,Tether,236.4727,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 14:16:00,Alfabank,20000,RUB,Kaspi-bank,99208,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-01 14:10:00,Tinkoff,20000,RUB,Kaspi-bank,99770.02,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-01 14:14:00,pngegg-2,5000,RUB,pngwing.com-2,140.412631,DOGE,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 11:40:16.978518,Tether(USDT)TRC20,353.22,USDT,Желтыйбанк(RUB),34500,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:40:17.056252,Litecoin(LTC),0.52,LTC,Желтыйбанк(RUB),6192,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:40:17.133174,КартаМир(RUB),52000,RUB,Tether(USDT)TRC20,510,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:40:17.211943,BTC,0.006,BTC,СБП(RUB),54920,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 11:40:17.598079,Tether(USDT)TRC20,700,USDT,Желтыйбанк(RUB),68432,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:32:00,Сбербанк,0,?,Cardano,71,ADA,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 11:31:00,Tether,9943.378,USDT,Alipay,72000,ALPCNY,https://niceobmen.com,10334,trc erc bep
+2025-02-01 12:23:00,Tether,13208.04,USDT,photo-2024-12-15-15-18-16,1300001.337,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 11:47:00,Tether,750,USDT,photo-2024-12-15-15-18-16,73571.25,RUB,https://nadex.io/,19731,trc erc bep
