@@ -28225,3 +28225,20 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 17:03:00,Сбербанк,0,?,Bitcoin,0.001103,BTC,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 17:01:00,Litecoin,0,?,СБП,17768,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 17:04:00,Сбербанк,0,?,Litecoin,0.773907,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-01-27 05:47:00,Cash-RUB,1000000,RUB,tether,9741.21489,USDTBEP20,https://keine-exchange.com,997,trc erc bep
+2025-01-27 08:56:00,usdttrc20,3000,USDTTRC20,Cash-RUB,298240.5,RUB,https://keine-exchange.com,997,trc erc bep
+2025-02-01 15:31:00,Tether,1500,USDT,photo-2024-12-15-15-18-16,147119.4,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 17:00:00,Tether,380,USDT,VTB,36719.4,RUB,https://btchange.ru,11173,trc erc
+2025-02-01 17:09:00,Tether,400,USDT,Tinkoff,38655.456,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 17:07:00,Tether,304,USDT,Tinkoff,29381.0832,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 16:30:00,free-png.ru-126,10500,RUB,monero-xmr-logo,0.41620837,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 14:20:20.550888,BTC,0.001,BTC,Желтыйбанк(RUB),5084,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:20.634230,Tether(USDT)TRC20,1135,USDT,Зеленыйбанк(RUB),109191,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:20.729447,BTC,0.006,BTC,Красныйбанк(RUB),55000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:20.842313,Tether(USDT)TRC20,985,USDT,Желтыйбанк(RUB),96392,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:20.927256,Litecoin(LTC),2.084,LTC,Желтыйбанк(RUB),25000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:21.025298,Tether(USDT)ERC20,1050,USDT,Зеленыйбанк(RUB),100730,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:21.108994,Solana(SOL),2.31,SOL,Зеленыйбанк(RUB),50160,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 14:20:21.194220,Tether(USDT)TRC20,817.45,USDT,СБП(RUB),78650,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 17:17:00,Т-Банк (Тинькофф),0,?,Monero,0.350906,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 16:58:00,TRON-Icon-icon,320,USDT,Sberbank-RUB-,30835.2,RUB,https://yaobmen.cash,10913,trc erc bep
