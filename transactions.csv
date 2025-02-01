@@ -27222,3 +27222,16 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 07:09:00,Bitcoin-BTC,0.003048,BTC,Tinkoff-RUB,29988.2,RUB,https://yaobmen.cash,10913,trc erc bep
 2025-02-01 07:16:00,Sberbank,102000,RUB,Tether,1010.2371,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 05:09:00,Tether,1700,USDT,Sberbank,167629.01,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 07:28:00,pngegg,10000,RUB,litecoin-ltc-logo,0.72558804,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 05:00:19.165391,BTC,0.002,BTC,Желтыйбанк(RUB),14872,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:00:19.266207,BTC,0.038,BTC,Красныйбанк(RUB),368746,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:00:19.342671,BTC,0.006,BTC,Желтыйбанк(RUB),56504,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:00:19.419952,BitcoinCash(BCH),0.16,BCH,Желтыйбанк(RUB),6617,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:00:19.496883,Tether(USDT)TRC20,70,USDT,Желтыйбанк(RUB),6798,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 05:00:19.573843,Tether(USDT)TRC20,706,USDT,Желтыйбанк(RUB),68559,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 07:55:00,Т-Банк (Тинькофф),0,?,TRON,184,TRX,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 07:55:00,Альфа-банк,0,?,Litecoin,0.4026,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 07:52:00,Сбербанк,0,?,USDT BEP20,47,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 07:54:00,USDT TRC20,0,?,Сбербанк,19303,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 07:50:00,Т-Банк (Тинькофф),0,?,Ethereum,0.085632,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 07:11:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,500.6699,USDT,https://nadex.io/,19731,trc erc bep
