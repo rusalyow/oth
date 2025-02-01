@@ -26904,3 +26904,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-01-31 23:30:17.141231,Tether(USDT)BEP20,100,USDT,Желтыйбанк(RUB),9761,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-01-31 23:30:17.214844,Tether(USDT)TRC20,370,USDT,Желтыйбанк(RUB),36121,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-01 02:22:00,Bitcoin,0,?,Сбербанк,28225,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 01:44:00,Alfabank,50000,RUB,Tether,497.5263,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 01:57:00,Sberbank,40000,RUB,Tether,400.0292,USDT,https://finex24.io,10943,trc,erc,bep
+2025-01-31 21:02:00,Tether,700,USDT,photo-2024-12-15-15-18-16,67765.74,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 01:57:00,Tinkoff,35000,RUB,Bitcoin,0.00319926,BTC,https://buhtaobmena.me,11221,trc bep
+2025-01-31 23:40:21.886733,Tether(USDT)TRC20,325,USDT,Желтыйбанк(RUB),31727,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 02:35:00,Bitcoin,0,?,Сбербанк,28225,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 02:28:00,Т-Банк (Тинькофф),0,?,Monero,0.19764,XMR,https://avanchange.com/,1808,trc erc bep ton
