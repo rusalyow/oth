@@ -26854,3 +26854,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 00:21:00,Ethereum,0,?,Т-Банк (Тинькофф),31733,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 00:17:00,USDT ERC20,0,?,TRON,196,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-02-01 00:21:00,USDT TRC20,0,?,СБП,23886,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 00:25:00,Sberbank,50000,RUB,Tether,499.6463,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 00:23:00,Tether,250,USDT,Alipay,1809.825,CNY,https://finex24.io,10943,trc,erc,bep
+2025-02-01 00:25:00,Tether,285,USDT,Alfabank,27438.9336,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 00:33:00,TRON,0,?,Сбербанк,20120,RUB,https://avanchange.com/,1808,trc erc bep ton
