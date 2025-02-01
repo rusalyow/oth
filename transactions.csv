@@ -27704,3 +27704,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 11:49:00,Tether,500,USDT,Bank-transfer,16830,THB,https://bobr.exchange/,0,trc erc bep
 2025-02-01 10:51:00,Tether,700,USDT,14-Belarusbank,2268.7,BYN,https://bobr.exchange/,0,trc erc bep
 2025-02-01 09:44:00,Tether,212.766,USDT,Alfabank,20000,RUB,https://bobr.exchange/,0,trc erc bep
+2025-02-01 09:50:00,Tether,750,USDT,photo-2024-12-15-15-18-16,72753.75,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 11:28:00,Visa-Master-Mir,50000,RUB,Tether,503.7667,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-01 10:15:00,Bitcoin,0.01002749,BTC,Sberbank,98657.5872,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 11:46:00,free-png.ru-126,5000,RUB,bitcoin-btc-logo,0.0004371,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 11:40:00,logo-sbermarket-square-be8e750b,16800,RUB,bitcoin-btc-logo,0.00152633,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 11:41:00,logo-sbermarket-square-be8e750b,9200,RUB,bitcoin-btc-logo,0.00081077,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-01 09:30:14.805773,Tether(USDT)TRC20,150,USDT,Желтыйбанк(RUB),14670,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 09:30:14.883937,Tether(USDT)TRC20,800,USDT,Желтыйбанк(RUB),78240,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 09:30:15.038461,Tether(USDT)BEP20,100,USDT,Желтыйбанк(RUB),9777,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 09:30:15.115838,Tether(USDT)TRC20,215,USDT,Желтыйбанк(RUB),21022,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 12:12:00,Tether,259.93,USDT,10-Karta-Mir,25220,RUB,https://changeexpert.io,22783,trc trx
+2025-02-01 12:24:00,USDT BEP20,0,?,Т-Банк (Тинькофф),45362,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 12:23:00,USDT TRC20,0,?,Сбербанк,19309,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 12:25:00,USDT ERC20,0,?,Т-Банк (Тинькофф),22198,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 12:19:00,USDT TRC20,0,?,Райффайзен,30000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 11:14:00,Sberbank,40500,RUB,Tether,408.3946,USDT,https://nadex.io/,19731,trc erc bep
