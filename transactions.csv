@@ -28443,3 +28443,16 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 19:09:00,20-SBP,51000,RUB,Tether,500,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 19:06:00,Sberbank,40000,RUB,Tether,403.6555,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-01 15:39:00,Tether,702.2623,USDT,Sberbank,68507.0217,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 19:22:00,Tether,1550,USDT,Sberbank,149759.946,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-01 19:12:00,Bank-transfer,24252.284738,RUB,trump-coin,10.999988,TRUMP,https://buhtaobmena.me,11221,trc bep
+2025-02-01 16:30:19.232781,Tether(USDT)TRC20,1676,USDT,Желтыйбанк(RUB),163765,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 16:30:19.310488,USDCoin(USDC)POLYGON,125,USDC,Желтыйбанк(RUB),12193,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 16:30:19.388207,Tether(USDT)TRC20,52,USDT,Желтыйбанк(RUB),5081,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-01 19:20:00,Т-Банк (Тинькофф),0,?,USDT TRC20,47,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 19:19:00,USDT Polygon,0,?,СБП,10124,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 19:16:00,USDT Arbitrum,0,?,Альфа-банк,10606,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 19:16:00,Solana,0,?,Т-Банк (Тинькофф),12326,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 19:20:00,Dogecoin,0,?,Сбербанк,11281,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-01 19:07:00,photo-2024-12-15-15-18-16,150000,RUB,Tether,1515.349,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-01 16:27:00,Tether,800,USDT,photo-2024-12-15-15-18-16,78636,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-01 16:11:00,Ether,0.158,ETH,photo-2024-12-15-15-18-16,50270.2629,RUB,https://nadex.io/,19731,trc erc bep
