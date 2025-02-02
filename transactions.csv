@@ -29240,3 +29240,18 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 09:27:00,Sberbank,40000,RUB,Tether,398.0305,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-02 09:07:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,498.1414,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-02 09:40:00,Tether,564,USDT,Visa-Master,220962.51,AMD,https://bobr.exchange/,0,trc erc bep
+2025-02-02 09:32:00,photo-2024-12-15-15-18-16,45000,RUB,Tether,447.7844,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 09:26:00,Sberbank,59500,RUB,Tether,592.0716,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 09:21:00,photo-2024-12-15-15-18-16,145800,RUB,Tether,1450.8213,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 09:25:00,free-png.ru-126,5700,RUB,litecoin-ltc-logo,0.45212381,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 09:40:00,free-png.ru-126,5000,RUB,bitcoin-btc-logo,0.00044606,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 07:00:18.952072,Tether(USDT)TRC20,2085,USDT,Красныйбанк(RUB),201194,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 07:00:19.056572,Tether(USDT)TRC20,1066,USDT,Красныйбанк(RUB),102865,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 07:00:19.138364,Tether(USDT)TRC20,1176,USDT,Красныйбанк(RUB),113377,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 07:00:19.219807,Tether(USDT)BEP20,51.5,USDT,Желтыйбанк(RUB),5011,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 09:53:00,Т-Банк (Тинькофф),0,?,Solana,0.219372,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 09:53:00,USDT Solana,0,?,Сбербанк,220000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 09:53:00,Ethereum,0,?,Solana,2.904256,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 09:54:00,Litecoin,0,?,Сбербанк,11291,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 09:52:00,Т-Банк (Тинькофф),0,?,USDT TRC20,54,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 08:32:00,Tether,140,USDT,Visa-Master,438.172,BYN,https://bobr.exchange/,0,trc erc bep
