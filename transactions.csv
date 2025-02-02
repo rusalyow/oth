@@ -30205,3 +30205,15 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 18:00:00,Tinkoff,270000,RUB,Tether,2601.8624,USDT,https://niceobmen.com,10334,trc erc bep
 2025-02-02 17:28:00,Sberbank,50000,RUB,Tether,493.562,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-02 17:27:00,Sberbank,105000,RUB,Tether,1047.854,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-02 16:43:00,Ether,0.300361,ETH,photo-2024-12-15-15-18-16,88899.9248,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 18:02:00,logo-sbermarket-square-be8e750b,12700,RUB,monero-xmr-logo,0.54603226,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 15:40:20.076541,Dogecoin(DOGE),1150,DOGE,Желтыйбанк(RUB),30576,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 15:40:20.290141,Toncoin(TON),11.8,TON,Желтыйбанк(RUB),5035,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 15:40:20.373793,Tether(USDT)TRC20,72.07,USDT,Банковскаякарта(RUB),7000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 15:40:20.457650,Желтыйбанк(RUB),50000,RUB,OP(OPTIMISM),414.03,OPTIMISM,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 18:38:00,Т-Банк (Тинькофф),0,?,Dogecoin,502,DOGE,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:35:00,Т-Банк (Тинькофф),0,?,Solana,5.173011,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:34:00,VISA/MasterCard,0,?,USDT TON,85,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:34:00,USDT TRC20,0,?,USDT BEP20,1493,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:36:00,USDT TRC20,0,?,Сбербанк,73114,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 17:34:00,Ripple,114.9,XRP,Sberbank,29192.64,RUB,https://niceobmen.com,10334,trc erc bep
