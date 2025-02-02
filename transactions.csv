@@ -28809,3 +28809,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 00:00:23.292776,BTC,0.002,BTC,Желтыйбанк(RUB),20337,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-02 00:00:23.426110,Tether(USDT)BEP20,300,USDT,Желтыйбанк(RUB),28914,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-02 02:56:00,Альфа-банк,0,?,Litecoin,0.439841,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 00:10:17.940798,USDCoin(USDC)SOL,1545,USDC,Зеленыйбанк(RUB),148399,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 00:10:18.045008,Tether(USDT)TRC20,71.3,USDT,Желтыйбанк(RUB),6871,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 03:08:00,Альфа-банк,0,?,Litecoin,0.439841,LTC,https://avanchange.com/,1808,trc erc bep ton
