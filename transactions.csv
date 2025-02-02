@@ -30294,3 +30294,14 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 18:40:00,Sberbank,40000,RUB,Tether,392.3288,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-02 19:21:00,Tether,1000,USDT,Ether-classic,43.74969922,ETC,https://bobr.exchange/,0,trc erc bep
 2025-02-02 19:20:00,Tether,106,USDT,Ripple,40.8337652,XRP,https://bobr.exchange/,0,trc erc bep
+2025-02-02 19:01:00,Sberbank,50000,RUB,Tether,491.012,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 18:58:00,Tinkoff,25000,RUB,Tether,240.7478,USDT,https://buhtaobmena.me,11221,trc bep
+2025-02-02 19:17:00,free-png.ru-126,22000,RUB,726-7265090-trx-tron-hd-png-download-PhotoRoom-1,915.28980384,TRX,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 19:04:00,free-png.ru-126,5000,RUB,litecoin-ltc-logo,0.42525618,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 16:40:16.519065,Litecoin(LTC),5.28,LTC,Желтыйбанк(RUB),56210,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 16:40:16.603156,СБП(RUB),50000,RUB,Toncoin(TON),116.558,TON,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 16:40:16.854143,Желтыйбанк(RUB),50000,RUB,Ethereum(ETH),0.167,ETH,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 19:29:00,USDT TON,0,?,Сбербанк,43809,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:27:00,USDT Solana,0,?,Т-Банк (Тинькофф),22542,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:32:00,USDT TRC20,0,?,USDT Polygon,6105,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:31:00,Dogecoin,0,?,Сбербанк,8935,RUB,https://avanchange.com/,1808,trc erc bep ton
