@@ -30487,3 +30487,9 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 20:30:26.975653,BTC,0.002,BTC,Желтыйбанк(RUB),22379,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-02 23:21:00,USDT BEP20,0,?,Т-Банк (Тинькофф),10239,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 23:21:00,USDT ERC20,0,?,VISA/MasterCard,12000,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 20:40:21.706724,BTC,0.021,BTC,Желтыйбанк(cashin),200000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 23:36:00,Сбербанк,0,?,USDT TRC20,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 23:31:00,USDT TRC20,0,?,Ethereum,5.310017,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 23:28:00,USDT BEP20,0,?,Т-Банк (Тинькофф),10239,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 23:33:00,Ethereum,0,?,VISA/MasterCard,10091,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 23:28:00,USDT ERC20,0,?,VISA/MasterCard,12000,RUB,https://avanchange.com/,1808,trc erc bep ton
