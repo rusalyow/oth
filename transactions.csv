@@ -28789,3 +28789,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-01 22:19:00,Tether,1000,USDT,Sberbank,98250.6,RUB,https://finex24.io,10943,trc,erc,bep
 2025-02-01 23:11:19.602342,Tether(USDT)TRC20,65,USDT,Желтыйбанк(RUB),6264,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-02 02:01:00,Litecoin,0,?,Т-Банк (Тинькофф),280186,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 01:38:00,tether-trc20,200,USDT,Sistema-byistryih-platezhey,17763,RUB,https://barry24.com,11204,trc erc bep
+2025-02-01 23:45:00,Tether,735,USDT,Sberbank,71411.865,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-01 22:06:00,Bitcoin,0.058,BTC,Tinkoff,564637.241532,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-02 01:37:00,logo-sbermarket-square-be8e750b,5500,RUB,monero-xmr-logo,0.21359213,XMR,https://cripthub.ru/,1789,trc erc bep
