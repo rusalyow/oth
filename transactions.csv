@@ -30356,3 +30356,11 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 17:30:19.118953,Желтыйбанк(RUB),500000,RUB,BTC,0.049,BTC,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-02 20:22:00,Т-Банк (Тинькофф),0,?,Solana,0.218961,SOL,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 20:24:00,USDT TRC20,0,?,Сбербанк,19900,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 16:13:00,Tether,7774.8989,USDT,Alfabank,769093,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 19:56:00,Bitcoin,0.00349,BTC,Tinkoff,33371.6809767,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-02 17:40:19.171326,Желтыйбанк(RUB),50000,RUB,Tether(USDT)TRC20,483.67,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 17:40:19.483974,Зеленыйбанк(RUB),50000,RUB,Ethereum(ETH),0.162,ETH,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 20:34:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.001446,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 20:33:00,VISA/MasterCard,0,?,Bitcoin,0.001374,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 20:31:00,Litecoin,0,?,СБП,20425,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 20:03:00,Tether,927.0375,USDT,35-Revolut,885,EUR,https://bobr.exchange/,0,trc erc bep
