@@ -30441,3 +30441,11 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 21:52:00,Sberbank,200000,RUB,Tether,1941.512,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-02 19:55:00,Tether,875,USDT,Sberbank,88397.225,RUB,https://nadex.io/,19731,trc erc bep
 2025-02-02 18:50:00,Tether,1500,USDT,Sberbank,152955,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-02 21:06:00,Tether,750,USDT,photo-2024-12-15-15-18-16,75553.125,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 20:49:00,Tether,988,USDT,photo-2024-12-15-15-18-16,100017.71,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 20:48:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,101232.4,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 19:30:20.825453,USDCoin(USDC)SOL,523.28,USDC,СБП(RUB),50000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 19:30:20.909264,Tether(USDT)TRC20,215,USDT,Желтыйбанк(RUB),21035,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 19:30:20.992737,Tether(USDT)SOL,362.994,USDT,Желтыйбанк(RUB),35515,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 22:21:00,USDT TRC20,0,?,Litecoin,18,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 22:19:00,USDT TRC20,0,?,TRON,2175,TRX,https://avanchange.com/,1808,trc erc bep ton
