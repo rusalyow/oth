@@ -30305,3 +30305,13 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 19:27:00,USDT Solana,0,?,Т-Банк (Тинькофф),22542,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 19:32:00,USDT TRC20,0,?,USDT Polygon,6105,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 19:31:00,Dogecoin,0,?,Сбербанк,8935,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 17:56:00,Bitcoin,0.01056908,BTC,Sberbank,99860.457,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-02 19:00:00,Sberbank,28000,RUB,Dogecoin,1013.0012341,DOGE,https://buhtaobmena.me,11221,trc bep
+2025-02-02 16:50:19.353264,Tether(USDT)TRC20,75,USDT,Желтыйбанк(RUB),7340,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 16:50:19.436227,BTC,0.001,BTC,Желтыйбанк(RUB),6719,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 16:50:19.518473,Желтыйбанк(RUB),70000,RUB,Tether(USDT)TRC20,676.6,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 16:50:19.766176,СБП(RUB),51150,RUB,Tether(USDT)TRC20,500.21,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 19:42:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.00117,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:38:00,Solana,0,?,Сбербанк,9954,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:41:00,VISA/MasterCard,0,?,Hamster Kombat,40881,HMSTR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 19:34:00,Tether,4794,USDT,Monero,21.27556652,XMR,https://bobr.exchange/,0,trc erc bep
