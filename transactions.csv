@@ -30174,3 +30174,19 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 16:25:00,Tether,820,USDT,photo-2024-12-15-15-18-16,81399.842,RUB,https://nadex.io/,19731,trc erc bep
 2025-02-02 16:14:00,Bitcoin,0.007058,BTC,photo-2024-12-15-15-18-16,69368.9558,RUB,https://nadex.io/,19731,trc erc bep
 2025-02-02 17:18:00,Tether,910,USDT,Sberbank,89903.723,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-02 18:05:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,980.6248,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 18:03:00,Sberbank,150000,RUB,Tether,1472.095,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 18:02:00,photo-2024-12-15-15-18-16,50000,RUB,Tether,490.2494,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-02 18:03:00,Tether,533.4499,USDT,Raiffaisen,51999.9974326,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-02 16:40:00,20-SBP,134000,RUB,Bitcoin,0.01339615,BTC,https://buhtaobmena.me,11221,trc bep
+2025-02-02 18:02:00,20-SBP,30000,RUB,Tether,291.975,USDT,https://buhtaobmena.me,11221,trc bep
+2025-02-02 18:04:00,logo-sbermarket-square-be8e750b,5500,RUB,pngwing.com-2,182.736301,DOGE,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 17:57:00,logo-sbermarket-square-be8e750b,6300,RUB,bitcoin-btc-logo,0.00057526,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 17:47:00,logo-sbermarket-square-be8e750b,6000,RUB,solana-sol-logo,0.26519225,SOL,https://cripthub.ru/,1789,trc erc bep
+2025-02-02 15:20:21.506428,Tether(USDT)TRC20,1000,USDT,Желтыйбанк(RUB),98122,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 15:20:21.673245,Tether(USDT)ERC20,2583.18,USDT,Красныйбанк(RUB),250000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 18:18:00,Т-Банк (Тинькофф),0,?,Monero,0.225974,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:18:00,USDT BEP20,0,?,Т-Банк (Тинькофф),13623,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:18:00,USDT TRC20,0,?,Bitcoin,0.061281,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:17:00,Litecoin,0,?,СБП,24994,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 18:16:00,Litecoin,0,?,Т-Банк (Тинькофф),18998,RUB,https://avanchange.com/,1808,trc erc bep ton
