@@ -30480,3 +30480,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-02 23:05:00,Ethereum,0,?,VISA/MasterCard,10091,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 23:02:00,Litecoin,0,?,Т-Банк (Тинькофф),9931,RUB,https://avanchange.com/,1808,trc erc bep ton
 2025-02-02 23:04:00,Monero,0,?,СБП,12922,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 22:30:00,Bitcoin,0.00079,BTC,tether-trc20,67.61,USDT,https://barry24.com,11204,trc erc bep
+2025-02-02 20:20:17.346060,Tether(USDT)TRC20,297,USDT,Желтыйбанк(RUB),29165,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 20:20:17.599697,Toncoin(TON),17,TON,Желтыйбанк(RUB),6719,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 23:08:00,Ethereum,0,?,VISA/MasterCard,10091,RUB,https://avanchange.com/,1808,trc erc bep ton
