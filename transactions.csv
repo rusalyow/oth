@@ -30590,3 +30590,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-03 02:01:00,Т-Банк (Тинькофф),0,?,USDT TRC20,137,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-03 02:01:00,Сбербанк,0,?,USDT TRC20,55,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-03 02:00:00,Сбербанк,0,?,USDT TRC20,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-02 23:20:18.820065,СБП(RUB),500000,RUB,Tether(USDT)ERC20,4823.48,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-02 23:20:19.022822,СБП(RUB),300000,RUB,Dogecoin(DOGE),11658.67,DOGE,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-03 02:15:00,TRON,0,?,ЮMoney,48326,RUB,https://avanchange.com/,1808,trc erc bep ton
