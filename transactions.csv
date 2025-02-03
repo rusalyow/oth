@@ -30744,3 +30744,12 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-03 02:00:22.870599,Litecoin(LTC),0.9,LTC,Банковскаякарта(RUB),7957,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-03 04:53:00,Т-Банк (Тинькофф),0,?,TRON,216,TRX,https://avanchange.com/,1808,trc erc bep ton
 2025-02-03 03:39:00,Sberbank,78000,RUB,Tether,731.271,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-03 04:38:00,logo-sbermarket-square-be8e750b,12000,RUB,monero-xmr-logo,0.54310694,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-03 02:10:21.236996,USDCoin(USDC)POLYGON,50.169,USDC,Желтыйбанк(RUB),5000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-03 02:10:21.433745,Tether(USDT)TRC20,51,USDT,Желтыйбанк(RUB),5099,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-03 02:10:22.056608,СБП(RUB),100000,RUB,Tether(USDT)BEP20,934.87,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-03 02:10:22.143508,Зеленыйбанк(RUB),110000,RUB,Tether(USDT)TRC20,1028.61,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-03 05:05:00,VISA/MasterCard,0,?,Bitcoin,0.00117,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-03 05:03:00,Т-Банк (Тинькофф),0,?,Ethereum Classic,6.946249,ETC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-03 05:00:00,Т-Банк (Тинькофф),0,?,USDT Polygon,1804,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-03 04:18:00,Tether,700,USDT,photo-2024-12-15-15-18-16,73158.82,RUB,https://nadex.io/,19731,trc erc bep
