@@ -33853,3 +33853,26 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 16:54:00,Tether,2500,USDT,Bitcoin,0.02507069,BTC,https://bobr.exchange/,0,trc erc bep
 2025-02-04 14:46:00,Tether,1000,USDT,Visa-Master,958.3,EUR,https://bobr.exchange/,0,trc erc bep
 2025-02-04 16:08:00,Tether,6186.7335,USDT,Visa-Master,543459.9935,KGS,https://bobr.exchange/,0,trc erc bep
+2025-02-04 15:50:00,Tether,89990.2549,USDT,Cash,9022000,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-04 15:16:00,Litecoin,5.5,LTC,photo-2024-12-15-15-18-16,56305.7709,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-04 16:26:00,Bitcoin,0.00352,BTC,Sberbank,34211.4231202,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 16:51:00,20-SBP,200002,RUB,Bitcoin,0.01941351,BTC,https://buhtaobmena.me,11221,trc bep
+2025-02-04 16:51:00,Tether,468,USDT,Sberbank,45762.327,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 15:39:00,free-png.ru-126,6100,RUB,bitcoin-btc-logo,0.00054243,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 16:21:00,logo-sbermarket-square-be8e750b,10100,RUB,bitcoin-btc-logo,0.00093609,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 16:25:00,free-png.ru-126,8600,RUB,bitcoin-btc-logo,0.00077284,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 16:26:00,pngegg,6300,RUB,litecoin-ltc-logo,0.55086733,LTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 16:15:00,pngegg-2,5700,RUB,monero-xmr-logo,0.2182916,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 14:10:21.876724,Tether(USDT)TRC20,517.84,USDT,Желтыйбанк(RUB),51000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 14:10:21.990606,Toncoin(TON),66,TON,Ethereum(ETH),0.09,ETH,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 14:10:22.110465,Tether(USDT)TRC20,607.96,USDT,Красныйбанк(RUB),59876,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 17:05:00,Ethereum,0,?,Сбербанк,10933,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 17:00:00,TRON,0,?,СБП,55029,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 17:00:00,USDT ERC20,0,?,СБП,10759,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 17:01:00,Litecoin,0,?,Т-Банк (Тинькофф),10376,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 16:56:00,USDT TRC20,0,?,Т-Банк (Тинькофф),108358,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 16:09:00,TRON-Icon-icon,359,USDT,Sberbank-RUB-,35505.1,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-02-04 16:44:00,TRON-Icon-icon,439.01,USDT,SBP-RUB-1,40885,RUB,https://yaobmen.cash,10913,trc erc bep
+2025-02-04 16:10:00,photo-2024-12-15-15-18-16,490000,RUB,Tether,4842.3085,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-04 16:05:00,photo-2024-12-15-15-18-16,290000,RUB,Bitcoin,0.028942,BTC,https://nadex.io/,19731,trc erc bep
+2025-02-04 16:17:00,Visa-Master,54000,RUB,35-Revolut,502.7914,USD,https://bobr.exchange/,0,trc erc bep
