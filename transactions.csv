@@ -32638,3 +32638,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 03:24:00,Sberbank,20000,RUB,Kaspi-bank,99000.02,KZT,https://buhtaobmena.me,11221,trc bep
 2025-02-04 00:50:20.527947,СБП(RUB),60000,RUB,Tether(USDT)TRC20,570.04,USDT,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-04 03:37:00,Monero,0,?,СБП,419870,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-01-29 07:58:00,usdttrc20,50000,USDTTRC20,Cash-RUB,4883415,RUB,https://keine-exchange.com,997,trc erc bep
+2025-02-04 03:45:00,Bank-transfer,15000,RUB,Kaspi-bank,72765,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-03 15:14:00,20-SBP,45000,RUB,Bitcoin,0.00431199,BTC,https://buhtaobmena.me,11221,trc bep
+2025-02-04 03:54:00,USDT Polygon,0,?,Т-Банк (Тинькофф),15115,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 03:54:00,Bitcoin,0,?,Т-Банк (Тинькофф),39271,RUB,https://avanchange.com/,1808,trc erc bep ton
