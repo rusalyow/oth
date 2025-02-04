@@ -32980,3 +32980,17 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 08:36:00,Sberbank,100800,RUB,Tether,975.32,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-04 08:02:00,photo-2024-12-15-15-51-28,70000,RUB,Tether,673.2516,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-04 08:37:00,Tether,1000,USDT,Visa-Master,957.3,EUR,https://bobr.exchange/,0,trc erc bep
+2025-02-04 07:35:00,Tether,1500,USDT,photo-2024-12-15-15-18-16,153351.45,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-04 08:59:00,Tether,295,USDT,Alfabank,28992.7003,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 08:46:00,Tinkoff,185000,RUB,Kaspi-bank,934731.185,KZT,https://buhtaobmena.me,11221,trc bep
+2025-02-04 08:37:00,Visa-Master,170000,KZT,Raiffaisen,30147.1892179,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 08:56:00,free-png.ru-126,14000,RUB,bitcoin-btc-logo,0.00132089,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 08:52:00,free-png.ru-126,6300,RUB,bitcoin-btc-logo,0.00056728,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 08:35:00,pngegg-2,9000,RUB,bitcoin-btc-logo,0.00082159,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 08:21:00,logo-sbermarket-square-be8e750b,6100,RUB,bitcoin-btc-logo,0.00054889,BTC,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 06:10:18.751919,Tether(USDT)ERC20,1323.58,USDT,Желтыйбанк(cashin),130000,cashin,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 06:10:19.220120,BTC,0.155,BTC,Наличные(RUB),1500000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 06:10:19.516698,Желтыйбанк(RUB),70000,RUB,Ripple(XRP),268.623,XRP,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 09:04:00,Solana,0,?,Сбербанк,26720,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 09:01:00,USDT TON,0,?,Сбербанк,34829,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 08:54:00,Tether,160,USDT,Visa-Master,526.544,BYN,https://bobr.exchange/,0,trc erc bep
