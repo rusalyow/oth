@@ -32623,3 +32623,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-03 22:20:00,Tether,1535,USDT,Sberbank,154617.48,RUB,https://finex24.io,10943,trc,erc,bep
 2025-02-04 03:15:00,VISA/MasterCard,0,?,USDT TON,85,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-04 03:18:00,Bitcoin,0,?,СБП,11798,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-03 08:47:00,Bitcoin,0.039655,BTC,Cash-RUB,373841.5079,RUB,https://keine-exchange.com,997,trc erc bep
+2025-02-03 08:49:00,Cash-RUB,450000,RUB,tether,4428.48876,USDTERC20,https://keine-exchange.com,997,trc erc bep
+2025-02-04 02:49:00,logo-sbermarket-square-be8e750b,24100,RUB,monero-xmr-logo,0.95551607,XMR,https://cripthub.ru/,1789,trc erc bep
+2025-02-04 00:30:19.977534,Tether(USDT)TRC20,750,USDT,Желтыйбанк(RUB),74032,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 03:17:00,Monero,0.0266233,XMR,Tether,6.004,USDT,https://bobr.exchange/,0,trc erc bep
