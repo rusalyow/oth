@@ -34306,3 +34306,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 21:40:00,Tether,800,USDT,Sberbank,79853.04,RUB,https://finex24.io,10943,trc,erc,bep
 2025-02-04 20:40:19.109928,Litecoin(LTC),17.2,LTC,Банковскаякарта(RUB),171601,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-04 20:40:19.204086,Tether(USDT)BEP20,510,USDT,Зеленыйбанк(RUB),50119,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 23:15:00,photo-2024-12-15-15-18-16,88000,RUB,Tether,863.0302,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-04 21:38:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,99841.4,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-04 22:45:00,Tether,799,USDT,Tinkoff,78307.593,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 23:25:00,Tinkoff,227000,RUB,Bitcoin,0.02214154,BTC,https://buhtaobmena.me,11221,trc bep
+2025-02-04 20:50:17.116833,Tether(USDT)TRC20,550,USDT,Желтыйбанк(RUB),54094,RUB,https://alfabit.org/ru/exchange,1682,trc erc
