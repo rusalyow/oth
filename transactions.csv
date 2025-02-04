@@ -33798,3 +33798,17 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 16:15:00,Tether,900,USDT,photo-2024-12-15-15-18-16,90171,RUB,https://nadex.io/,19731,trc erc bep
 2025-02-04 15:41:00,photo-2024-12-15-15-18-16,64000,RUB,Tether,631.7793,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-04 15:33:00,Sberbank,39802,RUB,Tether,392.714,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-04 16:26:00,photo-2024-12-15-15-18-16,60000,RUB,Tether,592.6008,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-04 16:22:00,photo-2024-12-15-15-18-16,59000,RUB,Tether,582.723,USDT,https://finex24.io,10943,trc,erc,bep
+2025-02-04 15:57:00,photo-2024-12-15-15-18-16,150000,RUB,Bitcoin,0.01456547,BTC,https://finex24.io,10943,trc,erc,bep
+2025-02-04 15:54:00,Kaspi-bank,100000,KZT,10-Karta-Mir,17558.0728,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 15:03:00,Tether,828.5,USDT,Tinkoff,81786.0527275,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 16:06:00,Tinkoff,18400,RUB,Ziraat-Bankasi-Emblem,6310.3604,TRY,https://buhtaobmena.me,11221,trc bep
+2025-02-04 13:40:20.940392,Ethereum(ETH),0.219,ETH,Зеленыйбанк(RUB),60000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 13:40:21.054943,Желтыйбанк(RUB),292000,RUB,Tether(USDT)TRC20,2822.4,USDT,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 16:28:00,USDT TRC20,0,?,Сбербанк,39123,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 16:27:00,USDT BEP20,0,?,Litecoin,0.678927,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 16:33:00,USDT TRC20,0,?,Сбербанк,14280,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 16:08:00,Tether,700,USDT,photo-2024-12-15-15-18-16,70129.92,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-04 16:01:00,Tether,1215,USDT,photo-2024-12-15-15-18-16,122121.7155,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-04 16:05:00,Tether,1000,USDT,photo-2024-12-15-15-18-16,100180.3,RUB,https://nadex.io/,19731,trc erc bep
