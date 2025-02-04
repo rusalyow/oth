@@ -34294,3 +34294,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 22:31:00,photo-2024-12-15-15-18-16,100000,RUB,Ether,0.366193,ETH,https://nadex.io/,19731,trc erc bep
 2025-02-04 21:36:00,Tether,1700,USDT,Sberbank,169884.57,RUB,https://nadex.io/,19731,trc erc bep
 2025-02-04 21:55:00,Tether,1002,USDT,Sberbank,100010.8224,RUB,https://nadex.io/,19731,trc erc bep
+2025-02-04 20:10:19.280025,СБП(RUB),95800,RUB,Tron(TRX),4134.352,TRX,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-04 22:57:00,Tezos,0,?,Т-Банк (Тинькофф),16981,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 23:04:00,Monero,0,?,Райффайзен,23598,RUB,https://avanchange.com/,1808,trc erc bep ton
