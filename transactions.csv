@@ -34337,3 +34337,6 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-05 00:47:00,Alfabank,60000,RUB,26-TRON,2484.729268,TRX,https://nadex.io/,19731,trc erc bep
 2025-02-05 01:03:00,Tether,476,USDT,Tinkoff,46651.332,RUB,https://buhtaobmena.me,11221,trc bep
 2025-02-05 00:30:00,Tether,1000,USDT,Sberbank,98007,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-04 22:30:16.982109,BTC,0.006,BTC,Желтыйбанк(RUB),56391,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-05 01:20:00,Т-Банк (Тинькофф),0,?,Monero,0.208858,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 01:23:00,USDT ERC20,0,?,Т-Банк (Тинькофф),14484,RUB,https://avanchange.com/,1808,trc erc bep ton
