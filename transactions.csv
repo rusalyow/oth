@@ -35878,3 +35878,13 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-05 20:08:00,Альфа-банк,0,?,Monero,0.247497,XMR,https://avanchange.com/,1808,trc erc bep ton
 2025-02-05 18:51:00,Sberbank,282462,RUB,Tether,2777.7222,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-05 20:01:00,Tether,1601,USDT,26-TRON,7123.4753112,TRX,https://bobr.exchange/,0,trc erc bep
+2025-02-05 17:58:00,Tether,800,USDT,Sberbank,79211.92,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-05 17:13:00,Bitcoin,0.010185,BTC,Sberbank,100221.4594,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-05 17:20:17.481128,Tether(USDT)TRC20,650,USDT,Райффайзен(RUB),63520,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-05 17:20:17.601957,Tether(USDT)TRC20,699.89,USDT,Зеленыйбанк(RUB),68250,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-05 20:12:00,Сбербанк,0,?,Ethereum,0.017403,ETH,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 20:10:00,VISA/MasterCard,0,?,USDT TON,52,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 19:47:00,20-SBP,51400,RUB,Tether,510.2552,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-05 18:31:00,20-SBP,185000,RUB,Tether,1823.5458,USDT,https://nadex.io/,19731,trc erc bep
+2025-02-05 18:39:00,photo-2024-12-15-15-18-16,211008,RUB,Bitcoin,0.02111,BTC,https://nadex.io/,19731,trc erc bep
+2025-02-05 19:22:00,Tether,90,USDT,Visa-Master,290.727,BYN,https://bobr.exchange/,0,trc erc bep
