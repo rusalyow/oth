@@ -34419,3 +34419,7 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-05 01:30:18.427633,Желтыйбанк(RUB),416000,RUB,Tether(USDT)TRC20,4003.99,USDT,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-05 04:26:00,Т-Банк (Тинькофф),0,?,Monero,0.239721,XMR,https://avanchange.com/,1808,trc erc bep ton
 2025-02-05 04:27:00,Monero,0,?,Альфа-банк,12133,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 02:34:00,Tether,701,USDT,photo-2024-12-15-15-18-16,70103.6452,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-05 01:40:18.889425,Tether(USDT)TRC20,3000,USDT,Красныйбанк(RUB),295789,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-05 04:35:00,Т-Банк (Тинькофф),0,?,Solana,0.445408,SOL,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 04:32:00,Dogecoin,0,?,ЮMoney,11296,RUB,https://avanchange.com/,1808,trc erc bep ton
