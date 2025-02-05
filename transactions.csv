@@ -34340,3 +34340,10 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-04 22:30:16.982109,BTC,0.006,BTC,Желтыйбанк(RUB),56391,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-05 01:20:00,Т-Банк (Тинькофф),0,?,Monero,0.208858,XMR,https://avanchange.com/,1808,trc erc bep ton
 2025-02-05 01:23:00,USDT ERC20,0,?,Т-Банк (Тинькофф),14484,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-04 23:11:00,Tether,1100,USDT,photo-2024-12-15-15-18-16,109555.16,RUB,https://finex24.io,10943,trc,erc,bep
+2025-02-05 01:13:00,Tether,385,USDT,Tinkoff,37732.695,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-05 00:18:00,Tether,625,USDT,Sberbank,61254.375,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-05 01:35:00,Сбербанк,0,?,Litecoin,4.52497,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 01:34:00,USDT TRC20,0,?,Сбербанк,11200,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 01:27:00,Т-Банк (Тинькофф),0,?,Monero,0.208858,XMR,https://avanchange.com/,1808,trc erc bep ton
+2025-02-05 01:34:00,Bitcoin,0,?,Сбербанк,74771,RUB,https://avanchange.com/,1808,trc erc bep ton
