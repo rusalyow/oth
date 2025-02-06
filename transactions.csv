@@ -36171,3 +36171,9 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-06 00:50:19.603232,USDCoin(USDC),100,USDC,Желтыйбанк(RUB),9725,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-06 03:39:00,VISA/MasterCard,0,?,USDT TON,43,USDT,https://avanchange.com/,1808,trc erc bep ton
 2025-02-06 03:48:00,Monero,0,?,Сбербанк,40183,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 02:57:00,Bitcoin,0.0022,BTC,Tinkoff,20781.6201267,RUB,https://buhtaobmena.me,11221,trc bep
+2025-02-06 01:00:19.090025,Tether(USDT)TRC20,228.4,USDT,Желтыйбанк(RUB),22283,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-06 01:00:19.193816,Tether(USDT)BEP20,108,USDT,Желтыйбанк(RUB),10536,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-06 03:52:00,USDT TRC20,0,?,VISA/MasterCard,47873,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 03:50:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.00102,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 03:55:00,USDT TON,0,?,VISA/MasterCard,14553,RUB,https://avanchange.com/,1808,trc erc bep ton
