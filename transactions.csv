@@ -36191,3 +36191,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-06 03:39:00,Tether,700,USDT,Sberbank,69426.21,RUB,https://finex24.io,10943,trc,erc,bep
 2025-02-06 01:30:19.849261,Dogecoin(DOGE),728,DOGE,Желтыйбанк(RUB),18594,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-06 01:30:20.064439,Tron(TRX),344,TRX,Желтыйбанк(RUB),7544,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-06 04:00:00,free-png.ru-126,8000,RUB,ton-symbol,19.11674306,TON,https://cripthub.ru/,1789,trc erc bep
+2025-02-06 01:40:25.901057,BTC,0.001,BTC,Желтыйбанк(RUB),8000,RUB,https://alfabit.org/ru/exchange,1682,trc erc
+2025-02-06 04:33:00,USDT TRC20,0,?,VISA/MasterCard,10053,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 04:28:00,Т-Банк (Тинькофф),0,?,USDT BEP20,46,USDT,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 04:26:00,Litecoin,0,?,СБП,14068,RUB,https://avanchange.com/,1808,trc erc bep ton
