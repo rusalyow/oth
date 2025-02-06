@@ -36053,3 +36053,8 @@ Date,Sender,Send Amount,Send Currency,Receiver,Receive Amount,Receive Currency,S
 2025-02-05 23:21:00,photo-2024-12-15-15-18-16,100000,RUB,Tether,996.6135,USDT,https://nadex.io/,19731,trc erc bep
 2025-02-05 21:01:01.298209,Tether(USDT)OPTIMISM,2190,USDT,Желтыйбанк(RUB),212630,RUB,https://alfabit.org/ru/exchange,1682,trc erc
 2025-02-05 23:56:00,Сбербанк,0,?,Bitcoin,0.001068,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 00:06:00,USDT TRC20,0,?,Litecoin,19,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 00:06:00,USDT BEP20,0,?,СБП,19940,RUB,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 00:08:00,USDT TRC20,0,?,Litecoin,18,LTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 00:04:00,Т-Банк (Тинькофф),0,?,Bitcoin,0.000998,BTC,https://avanchange.com/,1808,trc erc bep ton
+2025-02-06 00:03:00,VISA/MasterCard,0,?,USDT TON,86,USDT,https://avanchange.com/,1808,trc erc bep ton
